@@ -1,0 +1,1866 @@
+MB-0002 FOXO3 TP53                                               
+MB-0005 NCOR1 PIK3CA                                               
+MB-0006 PIK3CA                                                
+MB-0008 TG TP53                                               
+MB-0010 GATA3 NCOR1 PIK3CA TP53                                             
+MB-0014 BAP1 CBFB PIK3CA                                              
+MB-0022 PIK3CA                                                
+MB-0028 FOXP1 MUC16 STAB2 TP53                                             
+MB-0035 CDH1 KMT2C NCOR1 NF1 PIK3CA                                            
+MB-0036 MUC16                                                
+MB-0039 BIRC6 GATA3 USH2A                                              
+MB-0046 PIK3CA TP53                                               
+MB-0054 ERBB3 MTAP PIK3CA                                              
+MB-0056 GATA3 MAP3K1 MUC16 SF3B1                                             
+MB-0060 COL6A3 KMT2D PTEN RB1 UTRN                                            
+MB-0062 BRCA2 RB1 TP53                                              
+MB-0066 CASP8 PIK3CA PTEN                                              
+MB-0068 FOXP1 PIK3CA                                               
+MB-0079 AGMO KDM6A PIK3CA TP53                                             
+MB-0081 AKT1 ALK SYNE1 USH2A                                             
+MB-0083 PIK3CA                                                
+MB-0093 ASXL2 LIPI PIK3CA PTEN                                             
+MB-0095 KMT2C PIK3CA TAF1                                              
+MB-0097 AKT1 APC                                               
+MB-0100 TP53                                                
+MB-0101 CDH1 PIK3CA                                               
+MB-0102 AKT1 CBFB CDH1 TP53                                             
+MB-0106 CBFB GATA3 MAP3K1 PIK3CA                                             
+MB-0107 AKAP9 MAP2K4 TP53 UBR5                                             
+MB-0108 BRIP1 TP53                                               
+MB-0109 HERC2 NF1 PRKCE PTEN RB1 SETD2 TP53                                          
+MB-0111 FBXW7 MAP3K1 PIK3CA                                              
+MB-0112 AHNAK2 ARID1A BIRC6 CDH1 GPS2 MUC16 MYH9 THSD7A                                         
+MB-0114 CBFB PIK3CA ZFP36L1                                              
+MB-0115 GH1 GPR32 HERC2 LAMA2 TP53                                            
+MB-0116 CDH1 GPS2                                               
+MB-0117 CDH1 L1CAM                                               
+MB-0119 NOTCH1 SMAD4                                               
+MB-0120 CASP8 SYNE1 USH2A                                              
+MB-0121 AKT1 CBFB GATA3 JAK1                                             
+MB-0122 CBFB GATA3 KMT2C MUC16 PIK3CA                                            
+MB-0123 AHNAK2 CDH1 DNAH2 FOXO3 MUC16 NF1 TG                                          
+MB-0124 PIK3CA                                                
+MB-0125 PIK3CA SETD2 TBX3                                              
+MB-0127 COL22A1 DNAH5 MUC16 RYR2 TP53                                            
+MB-0128 CBFB KMT2C NCOR1 PIK3CA                                             
+MB-0131 CTCF GATA3 KMT2C PIK3CA                                             
+MB-0133 GATA3 KMT2C PIK3CA                                              
+MB-0134 KMT2C                                                
+MB-0136 PIK3CA SF3B1                                               
+MB-0138 CDH1 PIK3CA                                               
+MB-0139 PIK3CA                                                
+MB-0140 ARID2                                                
+MB-0142                                                 
+MB-0143 CDH1 KRAS NCOR2 PIK3CA RYR2 TBX3                                           
+MB-0144 CBFB KMT2C KMT2D MAP3K1 PIK3CA                                            
+MB-0145 CDH1 MAP3K1                                               
+MB-0147 CDH1 PIK3R1                                               
+MB-0148 AHNAK2 MYH9 TP53                                              
+MB-0149 TP53 TTYH1                                               
+MB-0150 AHNAK AHNAK2 AKT2 KDM6A KMT2C NCOR1 PIK3CA PTEN SYNE1 TP53 UBR5                                      
+MB-0151 ARID5B                                                
+MB-0152 BIRC6 CACNA2D3 FRMD3 NF1 PIK3CA THADA TP53                                          
+MB-0154 GATA3 MUC16                                               
+MB-0155 SETD1A TAF1                                               
+MB-0157 TP53                                                
+MB-0162 ATR MAP2K4 PIK3CA RUNX1                                             
+MB-0163 AKAP9 ATR BRCA1 EGFR LIFR MUC16 NCOR1 PRKCQ RUNX1 TP53 USH2A UTRN ZFP36L1                                    
+MB-0164 COL22A1 MYH9 SMARCC2 TP53                                             
+MB-0165 PIK3CA TP53                                               
+MB-0166 FOXO3 GATA3                                               
+MB-0167 AHNAK2 FANCD2 HERC2 PIK3CA PTEN RB1 TP53 TTYH1                                         
+MB-0168 PTEN                                                
+MB-0170 PIK3CA RUNX1                                               
+MB-0171 MEN1 PIK3CA PRKCQ                                              
+MB-0172 GATA3 KMT2C NF1 PIK3CA SF3B1 TP53                                           
+MB-0173 DNAH2 RYR2 UTRN                                              
+MB-0174 ROS1 TP53                                               
+MB-0175 BIRC6 MUC16                                               
+MB-0176 MYH9                                                
+MB-0177 CDH1 MAP3K1 RUNX1                                              
+MB-0178 LAMB3 STAB2 TP53                                              
+MB-0180 MAP3K1 PIK3CA                                               
+MB-0181 MAP3K1 NCOR2 THADA                                              
+MB-0184 MEN1                                                
+MB-0188 ALK BAP1 NF1 PIK3CA RPGR THSD7A USP9X                                          
+MB-0189 PTEN USH2A                                               
+MB-0191 BAP1 TP53                                               
+MB-0192 CDKN1B LAMA2                                               
+MB-0193 PIK3CA                                                
+MB-0194 LAMA2 MAP3K1 PIK3CA PTEN                                             
+MB-0195 BAP1 PRPS2                                               
+MB-0197 ROS1                                                
+MB-0198 MAP3K1 PIK3CA                                               
+MB-0199 AHNAK2                                                
+MB-0200 TP53                                                
+MB-0201 ASXL2 LIFR PTPRD TP53                                             
+MB-0202 AKT1 RYR2 TP53                                              
+MB-0203 CBFB PTPRD                                               
+MB-0204 GATA3 PTEN RPGR                                              
+MB-0205 TBX3                                                
+MB-0206 AHNAK COL12A1 KMT2D MUC16 SYNE1 TP53                                           
+MB-0207 CTCF GPR124 MAP3K1 PIK3CA PTEN                                            
+MB-0211 PIK3CA TP53                                               
+MB-0214 ALK KMT2C TP53 USH2A                                             
+MB-0215 CDH1 KDM6A MAP3K1 NCOR2 PIK3CA SHANK2 SYNE1 TBX3 USH2A UTRN                                       
+MB-0218 CACNA2D3 CHEK2                                               
+MB-0220 DNAH5                                                
+MB-0221 ATR CDKN2A MLLT4 PIK3CA PTEN SETD2 THADA TP53                                         
+MB-0222 AHNAK CTCF GATA3 MAP2K4 PDE4DIP PIK3CA                                           
+MB-0223 ARID1A GATA3 MUC16 PIK3CA SYNE1                                            
+MB-0224 AHNAK CBFB CTNNA3 GPS2 MAP2K4 PIK3CA SMARCC1 UTRN                                         
+MB-0226 CBFB ERBB2 GATA3 TBX3                                             
+MB-0227 AHNAK2 CBFB GATA3 TBX3                                             
+MB-0228 PIK3CA                                                
+MB-0229 ARID1A ASXL1 MAP3K10 PIK3CA RUNX1                                            
+MB-0230 SYNE1 TP53                                               
+MB-0231 TBX3                                                
+MB-0232 CBFB GATA3 PIK3CA                                              
+MB-0233 AHNAK AHNAK2 ALK BRIP1 FANCD2 JAK1 MUC16 SETDB1 TP53                                        
+MB-0234 AKT1 ARID1B BRCA1 CBFB CDH1 KDM6A MYH9                                          
+MB-0235 COL12A1 DCAF4L2 PIK3CA                                              
+MB-0236 TP53                                                
+MB-0238 TP53                                                
+MB-0239 GATA3 USH2A                                               
+MB-0241 ATR COL6A3 KMT2D MAP2K4 TP53 UBR5                                           
+MB-0242 CBFB DNAH2 GPS2 MAP3K1 PIK3CA                                            
+MB-0243 AKT1 GATA3 MAP3K1 RPGR                                             
+MB-0244 ZFP36L1                                                
+MB-0245 ARID1A BCAS3 DNAH11 FANCD2 HERC2 JAK1 MAP2K4 MAP3K13 NCOR2 PBRM1 PIK3CA SETDB1 TAF1                                    
+MB-0247 MAP3K1 PIK3CA TAF1                                              
+MB-0249 PIK3CA TP53                                               
+MB-0253 NRG3                                                
+MB-0256 AHNAK2 KDM6A PIK3CA                                              
+MB-0257 PIK3CA                                                
+MB-0258 AFF2 AHNAK ALK LAMB3 SETD1A SMAD4 TBX3                                          
+MB-0259 COL12A1 TP53                                               
+MB-0260 ARID2                                                
+MB-0261 CBFB CDKN1B PIK3CA                                              
+MB-0262 CTCF TP53                                               
+MB-0263 NCOR1                                                
+MB-0264 ACVRL1 MUC16 SF3B1 ZFP36L1                                             
+MB-0265 PTEN TP53                                               
+MB-0266 ALK CDH1 MAP3K1 MYH9 SYNE1 THADA USH2A                                          
+MB-0268 ERBB2 GATA3 KMT2C MAP3K1 MUC16 NDFIP1 PIK3CA TP53                                         
+MB-0269 AHNAK2                                                
+MB-0270 ATR DNAH11 MAP3K1 MYH9                                             
+MB-0272 ASXL2 ERBB4 MYH9 PIK3CA USP28                                            
+MB-0273 CBFB GATA3 KMT2C MUC16 NCOA3 PIK3CA                                           
+MB-0278 TP53                                                
+MB-0279 PTEN                                                
+MB-0282 PIK3CA                                                
+MB-0284 AHNAK TP53                                               
+MB-0285 KMT2C MAP3K1 PIK3CA PTEN                                             
+MB-0286 PIK3CA                                                
+MB-0287 CDH1 DNAH11                                               
+MB-0288 CHD1 GATA3                                               
+MB-0290 GATA3 PIK3CA USH2A                                              
+MB-0291 FANCD2                                                
+MB-0292 KMT2C PALLD PIK3CA ROS1 TP53                                            
+MB-0294 ERBB3 PIK3CA                                               
+MB-0295 CTCF MAP2K4 PIK3CA                                              
+MB-0301 CDH1 FANCD2 PIK3CA                                              
+MB-0302 ALK CLK3 ERBB2 MUC16 OR6A2 RUNX1 SYNE1                                          
+MB-0303 BAP1 NOTCH1 PIK3CA                                              
+MB-0304 TP53                                                
+MB-0305 KMT2C MAP2K4 NCOR1 PIK3CA UBR5                                            
+MB-0306 AHNAK AHNAK2 ALK APC ARID1A ARID1B ASXL1 ASXL2 ATR CDH1 CTCF JAK1 MUC16 MYH9 PIK3CA TBX3 TP53 UBR5                               
+MB-0308 CBFB PIK3CA                                               
+MB-0309 BCAS3 GATA3 PIK3CA                                              
+MB-0310 CDKN1B KMT2D PIK3CA SETD2 USH2A                                            
+MB-0311 AGMO MUC16 PIK3CA RYR2                                             
+MB-0313 COL6A3 PRKCZ TP53                                              
+MB-0314 DNAH5 NCOR1 TBX3 TP53                                             
+MB-0315 CDH1 GATA3 PTPRD THSD7A TP53                                            
+MB-0316 DNAH11 LAMA2 PRKG1 TP53                                             
+MB-0317 AHNAK LAMB3 PIK3CA RYR2                                             
+MB-0318 KDM6A                                                
+MB-0319 DNAH5 FOXO3 SYNE1 USP9X                                             
+MB-0320 BRCA1 CDH1 COL22A1 DNAH11 MUC16 PIK3CA SYNE1                                          
+MB-0321 AHNAK2 NF1 PIK3CA                                              
+MB-0322 DNAH11 FOXP1 GPS2 HDAC9 KMT2C MAP3K1 MUC16 PIK3CA RUNX1 SMARCC2 USH2A                                      
+MB-0324 MAP3K1                                                
+MB-0325 AKAP9 CASP8 DNAH11 KDM6A KMT2C LAMA2 MUC16 PIK3CA TP53                                        
+MB-0328 AHNAK AHNAK2 ARID2 BIRC6 CHEK2 KMT2C MAP3K13 RYR2 UTRN                                        
+MB-0336 KMT2D                                                
+MB-0339 DNAH2 FOXO3                                               
+MB-0340 ASXL2 CLK3 SYNE1 TP53                                             
+MB-0341 GATA3 MEN1                                               
+MB-0342 ATR COL6A3 PIK3CA                                              
+MB-0343 CASP8 COL22A1 KMT2D SHANK2 TG                                            
+MB-0344 CDH1 TP53                                               
+MB-0345 DNAH2 NF1 PDE4DIP PIK3CA                                             
+MB-0346 AKAP9 BAP1 BCAS3 BRCA1 CASP8 KMT2D TP53 UBR5                                         
+MB-0348 AHNAK2 KMT2D PIK3CA                                              
+MB-0349 PIK3CA PRKCQ PTPRD                                              
+MB-0350 ASXL2 COL12A1 FLT3 KMT2D NOTCH1 PIK3CA PTEN TP53                                         
+MB-0352 ARID1A LAMA2 PTPRM RYR2 USP28                                            
+MB-0353 BIRC6 KMT2C PIK3CA TP53                                             
+MB-0354 ARID1B PIK3CA ROS1 STAB2 TP53 UTRN                                           
+MB-0356 ALK PIK3CA SETD1A                                              
+MB-0358 BIRC6 CHD1 COL6A3 DNAH11 DNAH5 L1CAM LIFR MUC16 PIK3CA SYNE1 TP53                                      
+MB-0359 AHNAK2 PIK3CA                                               
+MB-0360 BRCA2 FAM20C KMT2C PIK3CA SYNE1 USH2A                                           
+MB-0361 AFF2 ATR PALLD PRKCQ SETD1A TP53                                           
+MB-0362 FOXP1 HERC2 KMT2D PIK3CA PTEN                                            
+MB-0363 AHNAK ARID1A BIRC6 CDH1 COL12A1 DNAH11 DNAH2 DNAH5 KMT2C LARGE MLLT4 NCOR2 NF1 PIK3CA PRKCQ SETD2                                 
+MB-0364 AHNAK FLT3 NEK1 NPNT PIK3CA                                            
+MB-0365 AKT2 ATR FANCA NF2 RB1 TP53                                           
+MB-0366 CASP8 GATA3 MYO1A NCOR1                                             
+MB-0367 CDH1 MYH9                                               
+MB-0368 DNAH11 NCOR1 RYR2                                              
+MB-0369 AHNAK CDH1                                               
+MB-0370 DNAH2                                                
+MB-0371 AHNAK2                                                
+MB-0372 TP53                                                
+MB-0373 PIK3CA TP53                                               
+MB-0374 AHNAK2 GATA3                                               
+MB-0375 MLLT4 TP53 USH2A                                              
+MB-0377 PIK3CA PTEN                                               
+MB-0378 COL6A3 DNAH2 KMT2D MLLT4 MYH9 NCOA3 PALLD PDE4DIP PIK3CA TP53 USP28 ZFP36L1                                     
+MB-0379 AHNAK ATR PIK3CA SYNE1                                             
+MB-0380 HDAC9 JAK1 ROS1 TP53                                             
+MB-0381 AKAP9 GATA3 L1CAM RYR2 TP53 UBR5                                           
+MB-0382 CBFB PIK3CA TP53                                              
+MB-0383 DNAH11 GATA3 MAP3K13 PTPRM                                             
+MB-0384 AKT1 CTCF MAP2K4 NCOR1 PBRM1 THADA                                           
+MB-0385 MYO3A                                                
+MB-0386 ERBB4 KMT2C PPP2R2A PTPRD TP53                                            
+MB-0388 PIK3CA RYR2                                               
+MB-0389 PIK3CA                                                
+MB-0391 TBX3                                                
+MB-0392 COL6A3 PIK3R1                                               
+MB-0393 PIK3CA SF3B1                                               
+MB-0394 CASP8 GATA3 MAP2K4 SYNE1 TBX3                                            
+MB-0395 BIRC6 CDKN2A KMT2C KMT2D MUC16 NCOR1 PIK3R1 PRKCE SYNE1 TP53                                       
+MB-0396 ALK MYH9 RB1 RYR2 SHANK2 TP53                                           
+MB-0397 KDM6A PIK3CA UBR5                                              
+MB-0398 PIK3CA TP53                                               
+MB-0399 PIK3CA                                                
+MB-0400 TAF1 TP53                                               
+MB-0401 BIRC6 RUNX1 TP53                                              
+MB-0402 PIK3CA                                                
+MB-0404 KMT2C PRR16 SF3B1                                              
+MB-0406 FANCD2 MAP3K1 PIK3CA SYNE1                                             
+MB-0410 DNAH2 HERC2 PIK3CA                                              
+MB-0411 AHNAK2 ARID1B TP53                                              
+MB-0412 TP53                                                
+MB-0413 FOXO3 HERC2 MAP3K13                                              
+MB-0414 DNAH5 FBXW7 KMT2C NF1 STK11 TP53                                           
+MB-0417 AKT2 PIK3CA                                               
+MB-0418 TBX3                                                
+MB-0419 AHNAK2 NCOR1 PIK3CA                                              
+MB-0420 BIRC6 BRCA1 TP53                                              
+MB-0421 ARID1A ATR KMT2C RPGR SF3B1 SYNE1 TP53                                          
+MB-0422 MAP3K1 PIK3CA PTEN                                              
+MB-0424                                                 
+MB-0425 NF1 PIK3CA                                               
+MB-0426 GATA3 RUNX1                                               
+MB-0427 CDH1                                                
+MB-0428 LIFR SHANK2                                               
+MB-0429 CDH1 ERBB2 MAP3K1                                              
+MB-0431 LAMA2 TBX3                                               
+MB-0434 ARID1A BRIP1 PIK3CA SETD2                                             
+MB-0436 AKT1 TP53                                               
+MB-0437 AFF2 EP300 HDAC9                                              
+MB-0438 PIK3CA                                                
+MB-0439 LAMB3                                                
+MB-0440 BCAS3 DNAH5 GATA3 PIK3CA UBR5                                            
+MB-0442 CBFB CDH1 KMT2C PIK3CA                                             
+MB-0443 CTCF PIK3CA                                               
+MB-0445 MAP2K4                                                
+MB-0446 PRKCQ RYR2 TP53                                              
+MB-0449 NCOR1 PIK3CA RYR2                                              
+MB-0451 CTCF FOXP1 GATA3 PIK3CA                                             
+MB-0452 CBFB PIK3CA TP53                                              
+MB-0453 AHNAK2 COL22A1 TP53                                              
+MB-0455 ERBB2 NCOR1 TAF1 TP53                                             
+MB-0458 PIK3CA                                                
+MB-0459 ARID1A GPS2 MAP2K4 SYNE1 TP53                                            
+MB-0462 TP53                                                
+MB-0463 BIRC6 CTCF ERBB4 HERC2 MAP3K1 PIK3CA PTEN SHANK2                                         
+MB-0464 AKT1 TP53                                               
+MB-0465 TP53                                                
+MB-0466 GATA3                                                
+MB-0467 DNAH2 PIK3CA TP53                                              
+MB-0468 PPP2R2A RYR2 TAF1                                              
+MB-0469 TP53                                                
+MB-0470 CDH1 ERBB2 MAP3K1 PIK3CA                                             
+MB-0471 GATA3                                                
+MB-0472 AKT1 GATA3                                               
+MB-0474 RPGR TP53                                               
+MB-0475 MEN1 PIK3CA TBX3                                              
+MB-0476 TP53                                                
+MB-0478 PTEN                                                
+MB-0479 TP53                                                
+MB-0480 FOXO1 PIK3CA TP53 USH2A                                             
+MB-0481 MUC16 TP53                                               
+MB-0482 SMARCC1 TP53                                               
+MB-0483 MUC16 RB1                                               
+MB-0484 ARID1A MAP2K4 PRKACG SETD1A TP53                                            
+MB-0485 CBFB ERBB3 PIK3CA TP53                                             
+MB-0486 PIK3CA                                                
+MB-0487 PIK3CA                                                
+MB-0489 TP53                                                
+MB-0490 GATA3                                                
+MB-0491 CDH1 PIK3CA                                               
+MB-0492 DNAH11                                                
+MB-0494 PIK3CA TP53                                               
+MB-0495 AHNAK2 TP53                                               
+MB-0496 PIK3CA SGCD                                               
+MB-0497 DNAH11 EP300 PIK3CA PTEN SHANK2 TAF1                                           
+MB-0500 TP53                                                
+MB-0501 TP53                                                
+MB-0503 LAMA2 RYR2 SF3B1                                              
+MB-0504 GATA3 PIK3CA SF3B1                                              
+MB-0505 AHNAK2 AKT2 COL22A1 MAP2K4 PIK3CA RYR2                                           
+MB-0506 PIK3CA TP53                                               
+MB-0507 DNAH11                                                
+MB-0509 ERBB2 TP53                                               
+MB-0511 MAP3K1 PIK3CA                                               
+MB-0512 CBFB NCOR1 PIK3CA TG                                             
+MB-0513 CDKN1B GATA3                                               
+MB-0514 CDH1 CHEK2 ERBB2 GPS2 MAP3K1 PIK3CA TBX3                                          
+MB-0516 NCOR2 SBNO1 TP53                                              
+MB-0517 ARID1A GATA3                                               
+MB-0519 TP53                                                
+MB-0521 AHNAK2 ALK DNAH2 SYNE1                                             
+MB-0522 AHNAK AHNAK2 CDH1 CLK3 MYH9 RUNX1 TP53                                          
+MB-0524 AHNAK COL22A1 COL6A3 DNAH11 KMT2D LAMB3 MUC16 NOTCH1 TP53                                        
+MB-0525 CDH1 DCAF4L2 PDE4DIP PTEN RYR2 TP53                                           
+MB-0526 AHNAK2 BAP1 HIST1H2BC KMT2D NCOR2 USP28                                           
+MB-0527 SBNO1                                                
+MB-0528 KMT2D TP53 TTYH1                                              
+MB-0529 ASXL2 DNAH2 FANCA MUC16 PIK3R1 PTEN USP28                                          
+MB-0531 AHNAK2 ARID2 CHD1 PBRM1 PPP2R2A STAB2                                           
+MB-0532 BRCA1 KMT2D PIK3CA THSD7A                                             
+MB-0534 AHNAK ARID1A CDH1 DNAH5 GPR124 NCOR2 PDE4DIP PIK3CA SIK2 SYNE1                                       
+MB-0535 AKT1 GATA3 KMT2C                                              
+MB-0536 NOTCH1 TP53                                               
+MB-0537 PIK3CA                                                
+MB-0541 ALK DNAH2                                               
+MB-0542 DTWD2 HERC2 MEN1 TG                                             
+MB-0544 DNAH11 LAMB3 NOTCH1                                              
+MB-0545 CHD1 FANCD2 MAP3K1 TP53                                             
+MB-0550 CDH1 KMT2C KMT2D PIK3CA                                             
+MB-0551 L1CAM PIK3CA                                               
+MB-0552 AHNAK2 MUC16 PIK3CA RB1                                             
+MB-0553 KDM3A PBRM1                                               
+MB-0554 COL6A3 DNAH2 EP300 HERC2 KMT2D MAP3K1 PIK3CA PTPRM                                         
+MB-0558 BIRC6 DNAH5 KMT2C MYH9 NF1 NF2 RB1 USH2A                                         
+MB-0559 GATA3 MAP2K4 NEK1                                              
+MB-0568 MAP3K1 PIK3CA STAB2                                              
+MB-0569 BRCA2 MAGEA8 NR2F1                                              
+MB-0570 BAP1 BIRC6 ERBB3 KLRG1 MUC16 NCOR1 NOTCH1 PTEN TP53                                        
+MB-0571 AHNAK2 KMT2C MAP3K1 NCOR1 PIK3CA                                            
+MB-0573                                                 
+MB-0574 MAP3K1 PIK3CA RPGR SHANK2 TP53                                            
+MB-0575 ERBB3 KDM6A RYR2                                              
+MB-0576 AKAP9 GATA3 LAMA2 PIK3CA TBX3                                            
+MB-0577 GPS2 MAP3K1 MAP3K10                                              
+MB-0578 PIK3CA                                                
+MB-0579 FAM20C PIK3CA SF3B1                                              
+MB-0580 PIK3CA TP53                                               
+MB-0581 ERBB3 MAP3K13 NF1 PIK3CA TP53                                            
+MB-0582 DNAH2 LIFR MAP3K1 MYO3A SETD2 TP53                                           
+MB-0583 KMT2C PIK3CA PTPRM                                              
+MB-0584 TBX3                                                
+MB-0585 DNAH11 STK11 TP53                                              
+MB-0586 ERBB4 MEN1 MUC16 SYNE1                                             
+MB-0587 ERBB3 GATA3 TBX3 TP53                                             
+MB-0588 PIK3CA UTRN                                               
+MB-0589 AKAP9 GATA3 MEN1 TAF1                                             
+MB-0590 DCAF4L2                                                
+MB-0591 MYH9 PIK3CA                                               
+MB-0593 CDH1 ERBB3                                               
+MB-0594 APC GATA3 KMT2C MYO3A PIK3CA                                            
+MB-0596 GATA3 PIK3CA RUNX1 TBX3                                             
+MB-0597 AHNAK2 MAP3K1 PIK3CA                                              
+MB-0598 CBFB PIK3CA SYNE1                                              
+MB-0599 BRAF KMT2C MAP2K4                                              
+MB-0600 ARID1A KMT2C                                               
+MB-0601 AKT1 TP53                                               
+MB-0603 CTCF GLDC MAP3K1 PIK3CA TBX3                                            
+MB-0605 CDH1 PIK3CA SF3B1                                              
+MB-0606                                                 
+MB-0607 AKAP9 ERBB2 PIK3CA TP53                                             
+MB-0608 AHNAK ARID1B CACNA2D3 HERC2 NCOR2 PTEN STK11 TAF4B THADA TP53                                       
+MB-0609 AKT1 TP53                                               
+MB-0611 PIK3CA RPGR TP53 UTRN                                             
+MB-0613 PIK3CA PRKCQ TP53                                              
+MB-0614 ARID1A CDH1 LAMA2 USH2A                                             
+MB-0615 TP53                                                
+MB-0616 ARID1A ATR EP300 ERBB3 MEN1                                            
+MB-0618 HERC2 MAP2K4 PIK3CA                                              
+MB-0619 HDAC9                                                
+MB-0621 CDH1 PIK3CA                                               
+MB-0623 PIK3CA                                                
+MB-0624 NF1 PIK3CA                                               
+MB-0626 ATR GLDC SYNE1 TP53                                             
+MB-0627 BAP1 PIK3CA TP53                                              
+MB-0630 GATA3 L1CAM                                               
+MB-0631 ARID1A PBRM1 PIK3CA                                              
+MB-0632 COL6A3 PIK3CA TBX3                                              
+MB-0636 TP53                                                
+MB-0637 NF2 RPGR SBNO1 SYNE1 TP53                                            
+MB-0638 PIK3CA SF3B1                                               
+MB-0639 AKAP9 CDKN1B TP53                                              
+MB-0640 PIK3CA SF3B1 TBX3                                              
+MB-0641                                                 
+MB-0642 GATA3 PIK3CA                                               
+MB-0643 ERBB2 RPGR RYR2 TP53                                             
+MB-0644 MAP3K1 PIK3CA                                               
+MB-0646 PIK3CA SF3B1                                               
+MB-0649 GATA3 HERC2 PIK3CA                                              
+MB-0650 ASXL2 GATA3 THADA                                              
+MB-0652 PIK3CA TP53                                               
+MB-0653 AHNAK2 AKAP9 ALK BIRC6 BRAF CDH1 CLK3 CTNNA1 DNAH2 DNAH5 ERBB2 LAMA2 PIK3CA PTEN RB1 TAF1 TP53 UBR5 USH2A ZFP36L1                             
+MB-0654 GATA3 PIK3CA                                               
+MB-0655 AHNAK2 GATA3 PIK3CA                                              
+MB-0656 AHNAK2 TBX3 TP53                                              
+MB-0657 BIRC6 CBFB CDH1 PIK3CA                                             
+MB-0658 KRAS RUNX1 TP53                                              
+MB-0659 KMT2C SETD2                                               
+MB-0660 DNAH2 MUC16 THSD7A TP53                                             
+MB-0662 FANCD2 KMT2C RYR2 TP53                                             
+MB-0663 TP53                                                
+MB-0664 BRCA2 COL12A1 MYO3A PALLD THADA THSD7A TP53                                          
+MB-0666 PIK3CA                                                
+MB-0869 BIRC6 TP53                                               
+MB-0872 AHNAK2 COL22A1 ERBB2 MAP3K1 PIK3CA RYR2 TBX3                                          
+MB-0874 NOTCH1 TP53                                               
+MB-0877 DNAH11 FANCD2 PIK3CA TP53                                             
+MB-0880 PIK3CA                                                
+MB-0882 TP53                                                
+MB-0884 PIK3CA PTPN22 RUNX1 TP53 USP28                                            
+MB-0891 KMT2C PIK3CA SHANK2 TBX3                                             
+MB-0895 TP53                                                
+MB-0897 AHNAK2 AKT1 ASXL2 BRIP1 CDKN1B COL12A1 CTCF GATA3 L1CAM LAMA2 MAP3K1 MEN1 NEK1 PALLD PIK3CA PIK3R1 PTPRD RYR2 SMARCC1 STAB2 USH2A UTRN                           
+MB-0899 KMT2C PIK3CA PTEN USH2A                                             
+MB-0901 RYR2 TP53 USH2A                                              
+MB-0904 KMT2C PIK3CA                                               
+MB-0906 DNAH11 JAK1 PIK3CA TP53                                             
+MB-2513 AHNAK2 PIK3CA TP53                                              
+MB-2517 AHNAK2 ARID1B CDH1 PIK3CA TAF4B TG TP53                                          
+MB-2536 AKAP9 CBFB KMT2C NCOR1 PIK3CA                                            
+MB-2556 AHNAK                                                
+MB-2564 ACVRL1 AHNAK2 ALK ERBB2 LARGE MLLT4 NCOR2 PIK3CA PRKACG TBX3                                       
+MB-2610 GATA3 MAP3K1 MYO3A PIK3CA SETD2 TBX3                                           
+MB-2613 BIRC6 DTWD2 MUC16 NPNT SPACA1 STK11                                           
+MB-2614 L1CAM MUC16 PIK3CA SETDB1                                             
+MB-2616 CDH1 MAP2K4 TP53                                              
+MB-2617 AHNAK2 AKAP9 ASXL1 BRCA1 COL22A1 DNAH11 LAMA2 MAP2K4 PIK3CA TP53                                       
+MB-2618 AKT1 ARID1A DNAH2 DNAH5 ERBB2 GATA3 NEK1 USH2A                                         
+MB-2624 AHNAK DNAH5 MAP3K1 PIK3CA TBL1XR1                                            
+MB-2626 FANCD2 PDE4DIP SMARCD1                                              
+MB-2629 ALK GATA3                                               
+MB-2632 ACVRL1 FANCD2 FLT3 MAP3K10 MUC16 TP53                                           
+MB-2634                                                 
+MB-2642 ERBB3 GATA3 MAP3K1 THADA THSD7A                                            
+MB-2643 DNAH2 GLDC                                               
+MB-2645 KMT2D NCOR2 RB1 TBX3 TP53                                            
+MB-2669 GPR124 MAP3K1 NCOR2 USH2A UTRN                                            
+MB-2686 DNAH5 KDM3A MUC16 NOTCH1 UBR5                                            
+MB-2705 GATA3 MYO1A PIK3CA RUNX1 SYNE1 TTYH1                                           
+MB-2708 ARID5B CLK3 DNAH2 DNAH5 FOXO3 LAMA2 LAMB3 TP53                                         
+MB-2711 GATA3 RYR2                                               
+MB-2712 CTCF MAP3K1 MYH9 NR3C1 PIK3CA SHANK2                                           
+MB-2718 AHNAK2 BIRC6 TP53                                              
+MB-2721 MAP3K1 MUC16 PDE4DIP PIK3CA                                             
+MB-2724 AHNAK2 FOXO3 PDE4DIP                                              
+MB-2725 AKAP9 GATA3 KDM6A                                              
+MB-2728 BRIP1 HERC2 LAMB3 MUC16 NRG3 PIK3CA RYR2                                          
+MB-2730 ASXL1 DCAF4L2 DNAH11 HERC2 NCOR2 PTPRD SYNE1 TBL1XR1 TBX3                                        
+MB-2735 ASXL1 BRCA1 CASP8 PIK3CA RYR2 SETD2                                           
+MB-2742 ATR EP300 NPNT PIK3CA SIK2 SYNE1 TP53                                          
+MB-2744 COL22A1 KDM6A PIK3CA SYNE1 USH2A                                            
+MB-2745 FBXW7 PIK3CA RUNX1                                              
+MB-2747 AKT1 ASXL1 MLLT4 NCOR2                                             
+MB-2749 ATR HERC2 KMT2C PIK3CA RUNX1                                            
+MB-2750 ARID1A ERBB2 ERBB3 NCOR2 TBX3                                            
+MB-2752 FRMD3 GATA3 SBNO1 STAB2                                             
+MB-2753 DNAH11 DNAH5 LAMA2 SYNE1 TG TP53                                           
+MB-2754 CDH1 KMT2D                                               
+MB-2758 AHNAK2 MAP3K1 PIK3CA TP53                                             
+MB-2760 ARID1A MYO1A PIK3CA SETD1A                                             
+MB-2763 AHNAK2 CDKN2A HDAC9 KMT2C KMT2D PIK3CA                                           
+MB-2764 AFF2 DNAH11                                               
+MB-2765 ATR PIK3CA                                               
+MB-2767 AHNAK2 LAMA2 PTEN                                              
+MB-2769 AHNAK2 CDH1 L1CAM                                              
+MB-2770 AHNAK AKAP9 ARID1B BCAS3 DNAH5 FANCA PDE4DIP RYR2 STAB2                                        
+MB-2771 AHNAK APC CASP8 CTNNA3 FLT3 NOTCH1 TP53                                          
+MB-2772 APC ARID1A EP300 HERC2 MAP3K10 PTEN                                           
+MB-2774 MAP2K4 PIK3CA PTPRD                                              
+MB-2778 AKT1 CTCF DNAH2 MAP3K1 USP28                                            
+MB-2779 AHNAK2 ARID2 GATA3 PIK3CA STAB2 TP53                                           
+MB-2781 NOTCH1 PIK3R1                                               
+MB-2786 ASXL2 DNAH5 MUC16 PIK3CA UTRN                                            
+MB-2790 DNAH5 KMT2D LAMA2 MUC16 PIK3CA RYR2 TG                                          
+MB-2791 AHNAK2 CDH1 GATA3 HERC2 MUC16 PIK3CA SETD1A SYNE1 TBX3 THADA                                       
+MB-2792 AHNAK SYNE1                                               
+MB-2793 ARID1A GATA3 PIK3CA                                              
+MB-2795 FOXO1 NCOR2 SYNE1                                              
+MB-2796 AHNAK PIK3CA STAB2 SYNE1 TP53                                            
+MB-2797 ARID5B FOXO1 SBNO1 SYNE1                                             
+MB-2801 COL12A1 KMT2D LAMA2 MYO3A NCOR2 SETDB1 SF3B1 TP53                                         
+MB-2803 BCAS3 KMT2C MLLT4 PIK3CA                                             
+MB-2814 AKT1 CDKN1B KMT2C MAP3K1                                             
+MB-2815 CBFB PIK3CA                                               
+MB-2819 AHNAK KMT2C LAMA2 PIK3CA                                             
+MB-2820 AHNAK2 NOTCH1 PALLD PTEN RPGR SYNE1                                           
+MB-2821 AHNAK2 ATR KMT2D PDE4DIP STAB2                                            
+MB-2823 APC NOTCH1 NRG3 SYNE1 TBX3                                            
+MB-2827 ARID1A FLT3 MUC16 TP53                                             
+MB-2833 ASXL1 MAP3K13 MYO1A TP53 UTRN                                            
+MB-2834 BRCA2 COL12A1 FBXW7 ROS1 SETD2 TG TP53 USH2A                                         
+MB-2835 AHNAK2 BAP1 BRCA2 DNAH2 PDE4DIP PIK3CA                                           
+MB-2838 AHNAK ARID1A CDH1 DNAH5 LDLRAP1 MAP3K1 MUC16 NCOR2 PIK3CA RYR2 SMARCC2 USP9X                                     
+MB-2840 CDH1 DNAH5 NCOR1 PIK3CA TBX3                                            
+MB-2842 ARID1B BIRC6 FANCD2 KDM6A KMT2D NPNT PTEN RYR2 TP53 USP9X UTRN                                      
+MB-2843 HERC2 KMT2D NCOR2 TP53                                             
+MB-2844 ATR CDKN2A PIK3CA SMARCC2 SYNE1 TP53 UTRN                                          
+MB-2845 AHNAK2 CBFB DNAH5 MAP3K1 PIK3CA                                            
+MB-2846 ATR CHD1 FANCD2 HIST1H2BC PIK3CA TP53                                           
+MB-2847 ARID5B ASXL1 BRCA2 CTNNA3 GATA3 MUC16 SHANK2 TP53 USH2A                                        
+MB-2848 CBFB COL12A1 CTNNA3 DCAF4L2 GATA3 MUC16                                           
+MB-2849 GPS2 PIK3CA SYNE1 TP53                                             
+MB-2850 AHNAK2 HDAC9 MAP3K1 MAP3K13 SETD2                                            
+MB-2851 ARID2 DNAH5 KMT2D SMARCC1 TP53                                            
+MB-2853 AHNAK2 GATA3 MAP3K1 STAB2 THADA                                            
+MB-2854 CDH1 CHD1 HERC2 RYR2 TP53                                            
+MB-2857 KMT2D NCOR2 NOTCH1 PIK3CA TP53                                            
+MB-2858 PIK3CA TP53                                               
+MB-2863 AHNAK2 GATA3 GLDC SBNO1 SYNE1 THADA                                           
+MB-2867 EP300 HDAC9 MAP3K1 PIK3CA                                             
+MB-2895 FANCA LAMB3 MYH9 NCOA3 PIK3CA TP53                                           
+MB-2896 GATA3 MAP3K1 PIK3CA PTEN SYNE1                                            
+MB-2900 COL22A1 LAMB3 SYNE1 TP53                                             
+MB-2901 GATA3 MAP2K4 USP28                                              
+MB-2904 COL22A1 ERBB2 SETD1A TP53 USP9X                                            
+MB-2912 AHNAK DNAH2 NCOR2 TP53 USH2A                                            
+MB-2916 CBFB GATA3 JAK1 LIFR PIK3CA USH2A                                           
+MB-2917 DNAH2 THADA TP53 USH2A                                             
+MB-2919 AGMO ATR GATA3 MAP3K1 TBX3                                            
+MB-2922 BRCA1 KMT2C LAMB3 MYO1A TAF1 TAF4B TG TP53                                         
+MB-2923 COL12A1 COL22A1 LAMA2 MUC16 PIK3CA                                            
+MB-2927 PIK3CA                                                
+MB-2929 AKAP9 CHEK2 COL6A3 PIK3R1 PPP2CB TP53                                           
+MB-2931 AKAP9 COL12A1 DNAH11 GATA3 GLDC MAP3K1 TBX3 TP53 ZFP36L1                                        
+MB-2932 MAP2K4 MUC16 PBRM1                                              
+MB-2933 ALK NOTCH1 PIK3CA ROS1                                             
+MB-2939 FBXW7 MAP3K1 MUC16 PIK3CA                                             
+MB-2944 MYH9 PDE4DIP PIK3CA PTPRD THSD7A TP53                                           
+MB-2947 NOTCH1 SYNE1 TBX3                                              
+MB-2951 GATA3 KDM3A KDM6A LIFR SF3B1 SIK2                                           
+MB-2952 AHNAK DNAH5 GATA3 PIK3CA PTPRM ROS1 RUNX1 THSD7A                                         
+MB-2953 AHNAK PIK3CA SYNE1 TP53                                             
+MB-2954 AFF2 BRIP1 GLDC GPR124 MYH9 MYO3A NCOR1 SETD1A STAB2                                        
+MB-2957 KMT2D NCOR2 SETD2 TP53                                             
+MB-2960 COL22A1 MAP3K1 NCOR2 NEK1 NPNT                                            
+MB-2963 MUC16 MYO1A PALLD RYR2 TP53                                            
+MB-2964 ERBB3 MAP2K4 NF1 PIK3CA PTPRD SYNE1 TG TP53                                         
+MB-2966 CBFB DNAH5 FAM20C GATA3 KDM6A RYR2                                           
+MB-2969 CDH1 COL12A1 DNAH11 KMT2D L1CAM PIK3CA SYNE1                                          
+MB-2970 AFF2 AHNAK ARID1A CDH1 DNAH11 MYO3A NF1 SYNE1 TP53                                        
+MB-2971 BIRC6 CBFB CDH1 MUC16 NRG3 PIK3CA TG THSD7A TTYH1                                        
+MB-2977 AHNAK2 MAP3K1 NF1 PIK3CA                                             
+MB-2983 FAM20C NRG3 TG TP53                                             
+MB-2984 AHNAK2 DNAH11 LAMA2 MUC16 TP53                                            
+MB-2990 CBFB DNAH11 GATA3 PIK3CA ROS1                                            
+MB-2993 ARID1A NCOR2 SYNE1 ZFP36L1                                             
+MB-2994 AHNAK2 CBFB MLLT4                                              
+MB-2996 DTWD2 KMT2D MAP3K1 NF2                                             
+MB-2999 AFF2 AHNAK2 AKAP9 COL12A1 DNAH11 RYR2 STMN2 THADA USH2A                                        
+MB-3001 ATR BAP1 BCAS3 KMT2C PRKCZ RB1 TP53                                          
+MB-3002 ACVRL1 CDH1 EGFR ERBB2 PTPRD                                            
+MB-3005 AHNAK CHEK2 PIK3CA ROS1 SETD1A                                            
+MB-3006 AHNAK2 CDH1 DNAH2 PIK3CA SYNE1                                            
+MB-3007 HERC2 PIK3CA                                               
+MB-3008 AHNAK2 PIK3CA                                               
+MB-3013 ATR CHEK2 LARGE                                              
+MB-3014 BIRC6 GPR124 THSD7A TP53 UTRN                                            
+MB-3016 AFF2 AHNAK2 AKAP9 ARID1A CTCF DNAH2 FBXW7 GATA3 LAMA2 TP53 USH2A                                      
+MB-3021 ARID1B BIRC6 BRIP1 CDH1 DNAH5 NCOA3 RB1 RYR2 STAB2                                        
+MB-3025 PDE4DIP TP53                                               
+MB-3026 BRCA2 LAMA2 NF1                                              
+MB-3028 AKAP9 ERBB2 FOXO1 GPR32 ROS1 TP53                                           
+MB-3031 GLDC HERC2 KDM6A MUC16                                             
+MB-3032 CBFB LAMA2 MAP3K1 MUC16 MYH9 PDE4DIP PIK3CA USP9X                                         
+MB-3033 PIK3CA                                                
+MB-3035 AHNAK BAP1 BIRC6 FOXO3 LAMA2 MAP3K1 RUNX1                                          
+MB-3037 MAP3K1 PIK3CA                                               
+MB-3046 ASXL2 DNAH11 ERBB3 HERC2 TP53                                            
+MB-3049 CDH1 PIK3CA SYNE1 USH2A                                             
+MB-3050 COL6A3 KMT2C NF1 TP53 UBR5 USP28                                           
+MB-3057 AHNAK2 BRCA2 FRMD3 KMT2D TP53                                            
+MB-3058 AHNAK CLK3 DNAH11 DNAH2 GLDC LAMA2 SIK1 USH2A                                         
+MB-3060 MLLT4 NPNT PTEN                                              
+MB-3062 AKAP9 MUC16 MYH9 PTPRD TP53                                            
+MB-3063 COL22A1 DNAH5 GPR124 MEN1 RYR2 SMARCC2 SMARCD1 SYNE1 TP53 USP9X                                       
+MB-3064 AKAP9 ERBB3 KDM3A LAMB3 MAP2K4 PDE4DIP PIK3CA                                          
+MB-3067 AHNAK2 DNAH11 TP53 USP9X UTRN                                            
+MB-3079 CASP8 CBFB EGFR GATA3 KMT2C LIPI MUC16 NCOA3 NOTCH1 PIK3CA USH2A                                      
+MB-3083 KMT2D RUNX1                                               
+MB-3085 DNAH2 MYO3A STAB2 TG                                             
+MB-3088 COL22A1 GATA3 TBX3                                              
+MB-3092 STK11                                                
+MB-3102 AHNAK CASP8 CDKN2A COL6A3 PDE4DIP USP9X                                           
+MB-3103 FAM20C FANCA HERC2 TAF1 UTRN                                            
+MB-3104 ATR FBXW7 KMT2D MAGEA8 NOTCH1 PIK3CA RB1 ROS1 RUNX1                                        
+MB-3105 HERC2 MAP3K10 PIK3CA SHANK2 TG                                            
+MB-3110 ALK ARID5B ASXL1 COL22A1 PIK3CA PTPRM TBX3                                          
+MB-3121 AHNAK2 SMARCC1                                               
+MB-3122 AHNAK2 ATR CASP8 CHD1 PIK3CA SETD1A TP53                                          
+MB-3123 PIK3CA PIK3R1 SHANK2 TP53 TTYH1                                            
+MB-3153 AHNAK KMT2C PTEN TP53                                             
+MB-3165 NCOR2 SIK1 SYNE1 TP53                                             
+MB-3167 EGFR                                                
+MB-3171 AHNAK AKAP9 DNAH2 KMT2C MAGEA8 MAP2K4 MUC16 PIK3CA SETD1A                                        
+MB-3181 ATR BCAS3 DNAH11 DNAH2 GPR124 L1CAM PIK3CA ROS1 SETD2 THADA TP53                                      
+MB-3211 DNAH11 DNAH5 EP300 MLLT4 MYO1A OR6A2 PBRM1 SYNE1 UTRN                                        
+MB-3218 GPR32 KMT2D TP53                                              
+MB-3222 ARID2 PIK3CA USH2A                                              
+MB-3228 BRCA2 CBFB DNAH2 MAP3K1 PIK3CA TG                                           
+MB-3235 SBNO1 TP53                                               
+MB-3252 GH1 MUC16                                               
+MB-3253 AHNAK2 COL22A1 FBXW7 FOXO1 GLDC GPR32 HERC2 MUC16 NOTCH1 OR6A2 PIK3CA TP53 USP28 UTRN ZFP36L1                                  
+MB-3254 DNAH11 KMT2C MAP3K1 PIK3CA PIK3R1 THSD7A                                           
+MB-3266 PIK3CA TP53                                               
+MB-3271 DNAH11 LAMB3 MUC16 SYNE1 TP53                                            
+MB-3272 DNAH2 TP53                                               
+MB-3275 AHNAK2 AKAP9 GATA3 HIST1H2BC MYO3A THADA                                           
+MB-3277 BIRC6 MUC16 PDE4DIP ROS1 SIK1 TP53                                           
+MB-3292 AHNAK2 BIRC6 FANCA LAMA2 TP53                                            
+MB-3295 ERBB2 PALLD PIK3CA TP53                                             
+MB-3297 COL6A3 DNAH11 DNAH5 FANCA MUC16 NEK1 PTPRD ROS1 TP53 UBR5                                       
+MB-3298 ATR CDH1 MYO3A NCOR2 PIK3CA USH2A                                           
+MB-3300 CLRN2 GATA3 ROS1                                              
+MB-3301 ARID1A COL6A3 GATA3 MUC16 TAF4B UTRN                                           
+MB-3303 AHNAK2 DNAH11 LAMB3 STAB2                                             
+MB-3328 FOXO3 GATA3 PIK3CA SMARCC1 UTRN                                            
+MB-3329 COL12A1 DNAH11 KDM3A PDE4DIP TP53                                            
+MB-3341 BIRC6 NEK1 PTEN TBX3                                             
+MB-3344 CDKN2A COL22A1 MAP3K10 MLLT4 PIK3CA SETDB1 USH2A                                          
+MB-3350 APC ARID2 DNAH11 DNAH2 MUC16                                            
+MB-3351 ERBB3 FLT3 NCOR2 PIK3CA                                             
+MB-3355 DNAH11 MUC16 STAB2 SYNE1 TP53                                            
+MB-3357 CDH1 CHD1 LAMB3 MUC16 RUNX1 SETD1A TP53                                          
+MB-3360 ARID1A NCOR1 NCOR2 PRKCE ROS1 RYR2 TAF1 TP53                                         
+MB-3361 BIRC6 L1CAM MUC16 NF2 PIK3CA PTPRM SIK1 TP53                                         
+MB-3363 AKAP9 ARID1A ASXL2 BRIP1 CASP8 COL22A1 DNAH11 ERBB3 FLT3 KDM6A MUC16 MYH9 NCOA3 PIK3R1 PTEN PTPRD RB1 RYR2 SMARCC2 SYNE1 THSD7A USP9X                           
+MB-3365 MUC16 MYH9 UTRN                                              
+MB-3367 AHNAK2 ATR DNAH2 LAMB3 MUC16 MYH9 TP53 USP28                                         
+MB-3371 GATA3 GPR124 MUC16                                              
+MB-3378 CDH1 FOXP1 MAP3K1 PIK3CA                                             
+MB-3379 AHNAK ARID1A CDH1 FAM20C PIK3CA                                            
+MB-3381 MAP2K4 MUC16 PIK3CA                                              
+MB-3382 GH1                                                
+MB-3383 ARID1B ARID2 GPR124 HDAC9 KMT2C TP53 USH2A UTRN                                         
+MB-3386 FOXO3 KMT2C LDLRAP1 MUC16 PDE4DIP TP53                                           
+MB-3388 ASXL2 MYH9 PIK3CA SYNE1 TP53                                            
+MB-3389 CHD1 MYO1A                                               
+MB-3395 DNAH5 KMT2C MAP3K13 SHANK2 TP53 USH2A                                           
+MB-3396 AHNAK2 AKAP9 ATR CDKN2A FANCD2 LAMB3 MUC16 NCOR1 PIK3CA PTEN TP53                                      
+MB-3402 FRMD3 MUC16 PBRM1 PIK3CA                                             
+MB-3403 ERBB3 MLLT4 NPNT PIK3CA                                             
+MB-3412 AHNAK KMT2C LAMB3 MAP3K1 PIK3CA UTRN                                           
+MB-3417 AHNAK2 KMT2C MUC16 NCOR1 STAB2 SYNE1 TG                                          
+MB-3429 AHNAK AHNAK2                                               
+MB-3430 DNAH5 ERBB2 MUC16 PIK3CA PTEN SF3B1                                           
+MB-3435 AGMO DNAH11 FANCA HERC2 NOTCH1 PIK3CA SETD2 SYNE1 TAF1                                        
+MB-3436 CDKN1B DNAH5 MAP3K1 PIK3CA                                             
+MB-3437 AHNAK2 DNAH2                                               
+MB-3439 AHNAK APC ERBB3 GPR124 GPR32 PIK3CA PRKACG SBNO1 STAB2 SYNE1                                       
+MB-3450 NT5E PIK3CA SIK2                                              
+MB-3452 AHNAK2 CACNA2D3 CDKN2A MUC16 NRAS SETDB1 TP53                                          
+MB-3453 AHNAK AKAP9 ATR COL22A1 DNAH11 DNAH2 DNAH5 HERC2 KMT2C LONP2 PIK3CA ROS1 STAB2 TP53 USP9X                                  
+MB-3459 CDKN1B DNAH5 LARGE NF1 PIK3CA                                            
+MB-3462 AHNAK2 AKT1 GATA3 MUC16 RYR2 SIK1                                           
+MB-3466 ERBB3 KDM3A LAMB3 MLLT4 MUC16 NPNT SMAD2 TG                                         
+MB-3467 AHNAK MUC16 NCOA3 TP53                                             
+MB-3470 MUC16 SETD1A TP53                                              
+MB-3476 ASXL1 KMT2D TP53 UTRN                                             
+MB-3479 PDE4DIP                                                
+MB-3487 AHNAK2 DNAH2 GH1 MUC16 MYO3A NR2F1                                           
+MB-3488 PPP2R2A TP53                                               
+MB-3490 ARID2 COL6A3 DNAH11 DNAH2 DNAH5 EGFR EP300 HDAC9 KDM3A NCOR1 PIK3CA PRKCE RYR2 SBNO1 SMARCC1 UBR5                                 
+MB-3492 AHNAK2 HDAC9 MUC16 NCOR1 PIK3CA SETD1A SYNE1 USH2A                                         
+MB-3497 ARID1A BAP1 BIRC6 CACNA2D3 DNAH5 MYO3A SHANK2                                          
+MB-3500 AHNAK AHNAK2 DNAH2 EGFR KMT2D LARGE RB1 SYNE1 TP53                                        
+MB-3502 DNAH11 DNAH5 LAMA2 TP53                                             
+MB-3506 AHNAK2 DNAH2 GATA3 MAP3K10 NCOR2 RYR2                                           
+MB-3510 CACNA2D3 HERC2 KRAS MUC16 NCOR2 PIK3CA SMARCC1 STAB2                                         
+MB-3525 AHNAK AKAP9 BIRC6 CHEK2 COL12A1 COL22A1 DNAH2 DTWD2 FANCD2 HERC2 KDM3A KMT2C LAMB3 MAP2K4 MYH9 NF1 NF2 SETD1A SIK1 STAB2 TAF4B TG USH2A                          
+MB-3526 CTNNA3 PIK3CA TP53                                              
+MB-3528 AHNAK2 PIK3CA SMARCC1 STAB2 SYNE1 UTRN                                           
+MB-3530 AHNAK AHNAK2 ARID1A ARID2 CLK3 COL6A3 CTNNA3 FBXW7 GPR124 MUC16 PIK3CA PRKCZ SBNO1 SF3B1 SMAD4 TAF1 TBX3                                
+MB-3536 AHNAK2 DNAH2 ERBB3 MYO3A PIK3CA TG THSD7A TP53                                         
+MB-3545 NOTCH1 PIK3CA SYNE1 THADA TP53                                            
+MB-3548 AKT1 CDH1 COL22A1 ZFP36L1                                             
+MB-3556 DNAH11 DNAH2 DNAH5 FANCA MUC16 NCOR2 USH2A                                          
+MB-3567 AHNAK PTEN TP53 USH2A                                             
+MB-3576 AHNAK ATR LIFR MLLT4 MUC16 STAB2 TBX3 TP53                                         
+MB-3582 PIK3CA SMAD4                                               
+MB-3600 AHNAK BIRC6 CTNNA1 FANCD2 KMT2C MAP3K1 MUC16 TG USP9X                                        
+MB-3606 AKAP9 ARID2 DNAH11 DNAH5 EP300 MLLT4 PIK3CA TP53                                         
+MB-3614 AHNAK GATA3 HERC2 RB1                                             
+MB-3702 ALK APC MUC16 TG TP53                                            
+MB-3706 CACNA2D3 MUC16 TBX3 TP53                                             
+MB-3707 PIK3CA TP53                                               
+MB-3711 ARID1B GATA3 KMT2C MAP3K1 MUC16 SETDB1                                           
+MB-3748 ERBB2 KMT2D RB1 ROS1 TP53                                            
+MB-3752 MAP3K10 MEN1 ROS1 TP53                                             
+MB-3754 AHNAK2 KDM3A MUC16 PIK3CA PTPN22 USH2A                                           
+MB-3781 KMT2C NEK1 PDE4DIP PIK3CA SF3B1                                            
+MB-3797 AKT1 COL6A3 DNAH2 GATA3 HERC2 RUNX1                                           
+MB-3824 BIRC6 DTWD2 KMT2D MUC16 PIK3CA SYNE1 TP53                                          
+MB-3838 COL12A1 LAMB3 MUC16 MYH9 USH2A                                            
+MB-3840 MUC16 NPNT SYNE1 TP53                                             
+MB-3842 BRIP1 HERC2 MAP3K13 SIK1                                             
+MB-3850 CDH1 COL6A3 KMT2C MAP3K13 MUC16 PIK3CA PIK3R1 SF3B1                                         
+MB-3852 PIK3CA RUNX1 SYNE1 TP53                                             
+MB-3854 CDH1 DNAH5 KMT2C KMT2D PIK3CA TBX3                                           
+MB-3865 AHNAK2 NOTCH1 SF3B1 USP28                                             
+MB-3866 AHNAK2 FANCD2 OR6A2 SETDB1 TP53 USH2A                                           
+MB-3871 FAM20C FANCA MAP3K1 PIK3CA                                             
+MB-3874 CASP8 MUC16 NCOR2 PIK3CA PTEN TP53                                           
+MB-3978 ARID5B ATR BAP1 KMT2D PALLD PTPN22 TP53 USP9X                                         
+MB-4000 ARID1A MLLT4 PDE4DIP                                              
+MB-4001 AHNAK AHNAK2 COL6A3 DNAH11 EGFR GATA3 L1CAM MUC16 PTPRM                                        
+MB-4003 KMT2D MUC16 NOTCH1 THSD7A TP53                                            
+MB-4004 AHNAK ALK ATR COL6A3 DNAH11 DNAH2 SBNO1                                          
+MB-4005 CBFB HERC2 TP53 UBR5                                             
+MB-4008 COL12A1 LAMA2 MYO3A PIK3CA                                             
+MB-4010 AHNAK FLT3 HERC2 KMT2C LAMB3 PIK3R1 PTEN RUNX1 SYNE1                                        
+MB-4011 HERC2 KMT2C STK11 TP53                                             
+MB-4012 AHNAK2 CBFB CCND3 DNAH11 DNAH2 ERBB2 KMT2C PIK3CA PRKG1 SHANK2 SYNE1                                      
+MB-4015 BIRC6 COL6A3 ERBB2 HERC2 KDM6A KMT2C NPNT SMAD4 TP53                                        
+MB-4017 AHNAK2 ARID5B CTCF FOXO3 TG UTRN                                           
+MB-4018 APC COL6A3 KMT2D LARGE PBRM1                                            
+MB-4024 AKAP9 BRAF DNAH11 HERC2 KDM3A MYH9 TP53                                          
+MB-4033 CDH1 COL6A3 FANCA KMT2C MAP2K4 PRKCE RPGR THADA TP53                                        
+MB-4046 AFF2 AKAP9 BIRC6 CACNA2D3 CDH1 COL12A1 GPR124 PIK3CA                                         
+MB-4059 GATA3 NEK1 PIK3CA SMAD4 USH2A UTRN                                           
+MB-4079 AHNAK2 ARID1B ARID5B ASXL1 ATR COL12A1 COL6A3 DNAH5 HERC2 KMT2D LIPI MUC16 MYH9 NOTCH1 PIK3CA SMARCC1 TAF4B TP53 USH2A                              
+MB-4091 CTNNA3 EP300 GATA3 PPP2R2A                                             
+MB-4098 GATA3 GLDC GPR124 KMT2C KMT2D MLLT4                                           
+MB-4119 AHNAK2 ARID1A FANCD2 FOXO3 MAP3K1 MAP3K10 SMARCC2                                          
+MB-4120 ARID1A KMT2C MUC16 PTEN                                             
+MB-4126 BIRC6 DNAH2 DNAH5 MUC16 PIK3CA RYR2 SMARCC2 TP53 USH2A                                        
+MB-4127 AHNAK2 FAM20C HERC2 MUC16 SETD2 SHANK2 SMARCC2 TP53                                         
+MB-4139 CDKN1B CTCF TBX3 USP28                                             
+MB-4140 AHNAK2 ARID1B GPS2 HERC2 KDM6A KMT2D MYO1A RYR2 SYNE1 TBX3                                       
+MB-4141 AHNAK COL6A3 PIK3CA USH2A                                             
+MB-4145 AHNAK2 DNAH11 ERBB3 FBXW7 MYO3A ROS1 STAB2 TP53                                         
+MB-4146 AHNAK2 AKAP9 DNAH11 ERBB2 MUC16                                            
+MB-4148 AHNAK GPR124 SETDB1                                              
+MB-4154 ALK CACNA2D3 MYO1A PIK3CA TP53 TTYH1                                           
+MB-4171 BIRC6 CDH1 DNAH2 LIPI PIK3CA                                            
+MB-4173 AKT1 ARID2 SIK1                                              
+MB-4189 ARID1B ASXL1 ASXL2 BAP1 LAMA2 SMAD4 TP53                                          
+MB-4212 ARID5B NCOR1 PIK3CA                                              
+MB-4213 ARID5B SMARCC2 SYNE1                                              
+MB-4222 DNAH2 DNAH5 KMT2C NOTCH1 PIK3CA                                            
+MB-4224 AKAP9 DCAF4L2 DNAH2 RUNX1 UTRN                                            
+MB-4230 AHNAK2 NCOR2 NPNT PIK3CA TBX3 UBR5                                           
+MB-4233 AGMO AHNAK KMT2C MUC16 NPNT PDE4DIP SBNO1 TBX3 TP53 USH2A UTRN                                      
+MB-4234 ERBB3 GATA3 SETD1A ZFP36L1                                             
+MB-4235 CBFB MAP3K1 MUC16 PDE4DIP PIK3CA                                            
+MB-4236 AHNAK2 CDH1 DNAH11 FLT3 GLDC MAP3K1 PDE4DIP                                          
+MB-4250 BIRC6 CACNA2D3 PTEN RPGR TP53 ZFP36L1                                           
+MB-4254 AKAP9 COL12A1 TP53                                              
+MB-4264 CBFB COL12A1 GATA3 GPS2 HERC2 NOTCH1 RUNX1                                          
+MB-4266 LAMB3                                                
+MB-4270 SYNE1 TP53                                               
+MB-4274 AHNAK2 CBFB DNAH5 EP300 LAMA2 PIK3CA                                           
+MB-4276 COL6A3 ERBB3 KMT2D NOTCH1 PIK3R1 ROS1 TP53                                          
+MB-4278 APC CACNA2D3 GATA3 HERC2 KMT2C LAMB3 MAP3K1 MUC16 NCOR1 PIK3CA RYR2 SYNE1 UBR5                                    
+MB-4281 COL12A1 DNAH5 HERC2 OR6A2 PBRM1 PIK3CA PTPRM TP53                                         
+MB-4282 AHNAK2 ARID1A MAP2K4 SYNE1 TP53                                            
+MB-4283 GATA3 KMT2C LAMB3 LIPI PIK3CA SIK2 THADA                                          
+MB-4289 CDH1 COL6A3 EP300 MUC16 TBX3                                            
+MB-4292 AHNAK2 BIRC6 LAMA2 PRR16 TBX3                                            
+MB-4293 GATA3 KMT2C PIK3CA RUNX1 TG                                            
+MB-4300 AHNAK2 AKT1 MUC16 TP53                                             
+MB-4303 ACVRL1 BRCA2 CHD1 MLLT4 MUC16 NT5E PIK3R1 SETD1A SETD2 SYNE1 TP53                                      
+MB-4306 KMT2D MAP3K1 PIK3CA PRR16                                             
+MB-4310 GATA3 PIK3CA TBX3                                              
+MB-4313 AHNAK2 ARID1B KMT2D MAP3K1 MUC16 PALLD PIK3CA SYNE1                                         
+MB-4317 MLLT4 RUNX1 TP53                                              
+MB-4318 EP300 FAM20C MUC16                                              
+MB-4322 AFF2 DNAH11 JAK1 NCOR1 PIK3CA                                            
+MB-4323 COL6A3 MAP3K1 PIK3CA                                              
+MB-4324 AKAP9 AKT1 CTNNA3 DNAH11 FANCA GATA3 HERC2 PDE4DIP SETDB1 STAB2                                       
+MB-4328 DNAH11 EP300 HIST1H2BC KMT2D TP53                                            
+MB-4329 CDH1 COL22A1 L1CAM PIK3CA SPACA1                                            
+MB-4331 AHNAK LAMB3 SIK2                                              
+MB-4332 ARID1A BRAF CDKN1B TP53                                             
+MB-4333 MAP3K1 PIK3CA PRR16 RUNX1 TP53                                            
+MB-4339 AHNAK2 CDKN2A CTNNA3 DNAH2 PTPRM SYNE1                                           
+MB-4341 ARID1A EP300 GPR124 MAP3K13 TP53                                            
+MB-4342 OR6A2 PIK3CA PTPRD RPGR SETD2 THADA USP28                                          
+MB-4343 AHNAK ASXL2 DNAH11 FANCA KMT2C MAP2K4 NF1 PIK3CA PTPRD SYNE1 TP53                                      
+MB-4348 COL12A1 DNAH5 EP300 LAMB3 NCOA3 NOTCH1 RB1 RYR2 SF3B1                                        
+MB-4350 RYR2 TP53                                               
+MB-4351 AFF2 AHNAK COL22A1 DNAH2 HERC2 MUC16 PDE4DIP TP53                                         
+MB-4353 AHNAK2 COL12A1 MLLT4 MUC16 PIK3CA                                            
+MB-4354 EP300 MAP3K1                                               
+MB-4357 AFF2 ARID1A ASXL2 CDH1 DNAH11 KMT2C MAP3K1 MUC16 MYO3A NF1 PIK3CA TG THSD7A TP53 UTRN                                  
+MB-4360 DNAH11 ERBB2 L1CAM PDE4DIP PIK3CA SYNE1 TP53 USH2A                                         
+MB-4362 AHNAK ARID5B LAMA2 MAP3K1 MYO3A NF1 PIK3CA USH2A                                         
+MB-4368 AHNAK COL22A1 KMT2C NR2F1 PIK3CA                                            
+MB-4374 COL6A3 CTCF DNAH2 GATA3 PIK3CA SYNE1                                           
+MB-4375 AKT1 CBFB ERBB2 GATA3 USP9X                                            
+MB-4381 FOXP1 KMT2C MAP3K1 PIK3CA SETDB1 TBX3 THSD7A                                          
+MB-4390 COL6A3 MUC16 PIK3CA SHANK2 STAB2 USP9X                                           
+MB-4395 DNAH5 MLLT4 PDE4DIP SMAD4                                             
+MB-4407 AHNAK DNAH11 MAP3K1 MUC16 PPP2R2A TP53                                           
+MB-4408 DNAH11 ERBB3 HERC2 NOTCH1 SMAD2 SYNE1 TG THADA TP53                                        
+MB-4416 SIK2 TP53 UBR5 USH2A                                             
+MB-4417 DNAH2 NF1 PIK3CA SETD1A TAF1 TP53                                           
+MB-4418 AHNAK2 AKT1 ARID1B CCND3 DNAH11 DNAH5 HERC2 NCOR1 NOTCH1 RUNX1 TG THSD7A                                     
+MB-4421 AHNAK2 CTCF DNAH2 DNAH5 PIK3CA RB1 SETD2 SF3B1 TBX3                                        
+MB-4426 APC BIRC6 BRCA2 PIK3CA SIK1 SPACA1 TG TP53                                         
+MB-4434 MAP2K4                                                
+MB-4442 CBFB GATA3 PRKG1 USH2A                                             
+MB-4484 CDH1 DNAH2 PIK3CA SETDB1 SHANK2 SYNE1                                           
+MB-4529 AKAP9 BIRC6 CLK3 COL6A3 TBX3                                            
+MB-4548 ERBB2 TP53                                               
+MB-4557 AGMO AHNAK2 CBFB GATA3 KMT2D PIK3CA                                           
+MB-4564 BIRC6 KMT2D MAP3K1 RUNX1                                             
+MB-4578 COL12A1 GPR124 MAP3K1 MUC16 NCOR1 PIK3CA                                           
+MB-4591 CDKN2A KMT2D NCOR2 SYNE1                                             
+MB-4593 BIRC6 CBFB GATA3                                              
+MB-4598 MUC16 PIK3CA USH2A                                              
+MB-4599 AHNAK2 CBFB CDH1 GATA3 MYH9 PDE4DIP TBX3                                          
+MB-4601 AHNAK ASXL1 FANCA KMT2C L1CAM MAP3K10 RUNX1 TP53                                         
+MB-4602 DNAH11 DNAH2 FOXO3 NOTCH1 RB1 SETD2                                           
+MB-4603 ASXL1 CBFB CLK3 COL22A1 DNAH5 FOXO1 GATA3 GPR124 PIK3CA RUNX1                                       
+MB-4607 CBFB CDKN1B FANCA FOXO3 KMT2C LIFR PIK3CA SBNO1                                         
+MB-4616 AHNAK2 AKAP9 KMT2C KMT2D PIK3CA                                            
+MB-4618 AGTR2 APC MBL2 SETD2 SIAH1                                            
+MB-4621 ATR DNAH2 EP300 RPGR STK11 TP53                                           
+MB-4622 LARGE PTPN22 PTPRD TP53                                             
+MB-4623 AHNAK ASXL1 RPGR SYNE1 TP53                                            
+MB-4626 AHNAK DNAH11 FANCD2 MUC16 THADA                                            
+MB-4627 BRCA1 EP300 PIK3CA PTEN ROS1 SF3B1 UTRN                                          
+MB-4630 CDH1 DNAH2 GLDC KMT2D MAP3K1 TBX3                                           
+MB-4633 DNAH5 GPR124 NEK1 PIK3CA                                             
+MB-4634 AKT1 CBFB COL22A1 CTCF KMT2C                                            
+MB-4639 AHNAK PIK3CA SF3B1                                              
+MB-4640 ERBB4 FOXO3 NCOR2 SETD1A TP53 TTYH1                                           
+MB-4641 AHNAK2 CDH1 LAMA2 MAP3K1 PIK3CA                                            
+MB-4642 AHNAK2 COL12A1 DNAH2 PTPRD RB1 THSD7A                                           
+MB-4643 BIRC6 ERBB4 RUNX1 SMARCD1 TP53 UTRN                                           
+MB-4644 GLDC PIK3CA TBX3 TP53 USP9X                                            
+MB-4648 PDE4DIP                                                
+MB-4649 ASXL1 BCAS3 BIRC6 CDKN1B COL6A3 KDM6A KMT2C MYO3A NF1 PIK3CA RUNX1 SMAD4 THADA TP53 UTRN                                  
+MB-4651 KDM3A KMT2D MUC16 TP53                                             
+MB-4653 COL6A3 DNAH11 PIK3CA SETD1A STAB2 TP53                                           
+MB-4654 AHNAK2 AKAP9 EP300 MUC16 PDE4DIP PIK3CA PTEN UTRN                                         
+MB-4655 GPR124 PIK3R1 RB1 THSD7A TP53 UTRN                                           
+MB-4660 AHNAK APC BRCA1 COL12A1 KMT2C LARGE TP53                                          
+MB-4661 MAP3K1 PIK3CA SETD1A SF3B1 TBX3 USP28 USP9X                                          
+MB-4663 DNAH2 DNAH5 PIK3CA TP53 USH2A                                            
+MB-4665 HERC2 MUC16 ZFP36L1                                              
+MB-4666 LAMB3 MAP2K4 PIK3CA STK11 TP53                                            
+MB-4667 AKAP9 AKT1 ARID1A ASXL1 CDH1 COL22A1 COL6A3 CTNNA1 DCAF4L2 EP300 ERBB4 GATA3 JAK1 KMT2D LAMA2 MAP3K1 MAP3K10 MUC16 NCOR1 NCOR2 NF1 PTPRD RB1 RPGR SETD1A SGCD SYNE1 TAF1 THSD7A TP53 USH2A USP9X UTRN                
+MB-4669 CDH1 HERC2 KDM6A KMT2D SF3B1 SYNE1                                           
+MB-4670 DNAH2 FAM20C SBNO1 SIK1 STAB2 TBX3                                           
+MB-4671 AKT1 PPP2CB                                               
+MB-4672 AKAP9 MAP3K1 PTPRD SF3B1 SYNE1 USP28                                           
+MB-4673 MEN1                                                
+MB-4674 ARID2 ARID5B BRCA1 DNAH11 DNAH2 EP300 GLDC KMT2C                                         
+MB-4675 CTCF DNAH2 GATA3 KMT2D PIK3CA SMAD2 THSD7A                                          
+MB-4679 COL12A1 DNAH2 GLDC TP53                                             
+MB-4681 ASXL2 KMT2C L1CAM MAP3K1 NCOR1 PTEN                                           
+MB-4682 PIK3CA SETD2                                               
+MB-4685 AKAP9 DNAH11                                               
+MB-4686 PIK3CA SYNE1                                               
+MB-4687 BAP1 MUC16 PIK3CA TP53                                             
+MB-4688 BIRC6 DNAH11 DTWD2 KMT2C NT5E PRKCQ TG                                          
+MB-4691 AHNAK2 COL22A1 DNAH11 EGFR GATA3 GPR124 GPS2 KMT2C MUC16 PIK3CA RB1 SMAD2 TP53 UTRN                                   
+MB-4692 DNAH2 HERC2 NRG3 PIK3CA SYNE1 USH2A                                           
+MB-4694 AKAP9 KMT2C NOTCH1 STK11 TP53                                            
+MB-4695 AHNAK2 ASXL1 GLDC PALLD PIK3CA PRKACG                                           
+MB-4696 AHNAK2 AKAP9 ATR BIRC6 PTPRM RB1 TP53                                          
+MB-4697 ALK CCND3 COL12A1 EP300 FANCA LARGE MBL2 MLLT4 NOTCH1 PIK3CA SETD2                                      
+MB-4698 MYH9 PIK3CA PRKCZ PTPN22 SF3B1 SIK1                                           
+MB-4701 CBFB DNAH5 GATA3 MAP3K10 PDE4DIP SMAD4 SPACA1 SYNE1                                         
+MB-4702 ARID1B CTNNA3 GATA3 PBRM1 PTPRM RPGR                                           
+MB-4704 CDH1 ERBB2 OR6A2                                              
+MB-4705 AHNAK FOXO3 PIK3CA TG                                             
+MB-4706 AKT1 CDH1 MYH9                                              
+MB-4707 AHNAK ALK ARID1B DNAH5 LAMA2 MUC16 PTPRD SYNE1 TAF4B TP53                                       
+MB-4708 AHNAK ATR COL22A1 DNAH2 HERC2 LAMA2 PIK3CA PTPRM ROS1 RPGR                                       
+MB-4709 AHNAK2 PIK3CA RUNX1                                              
+MB-4710 ARID1A CDH1 CLRN2 GATA3 KDM6A KMT2D MAP2K4 MUC16 ROS1 RYR2 SETD1A                                      
+MB-4711 ARID2 DNAH11 NOTCH1 TP53                                             
+MB-4712 ALK FLT3 PIK3CA TP53                                             
+MB-4714 BAP1 COL6A3 EGFR SYNE1 TAF1 TP53                                           
+MB-4715 ARID5B DNAH11 MUC16 SMARCC1 THADA TP53 USH2A                                          
+MB-4716 AHNAK2 NEK1 SYNE1                                              
+MB-4717 ASXL2 TP53 UBR5                                              
+MB-4718 CDH1 GPS2 PIK3CA SYNE1                                             
+MB-4719 AHNAK2 KMT2D NR3C1 PIK3R1 TP53                                            
+MB-4721 AGMO ARID1B ERBB2 FOXO3 L1CAM NCOR1 PRKACG                                          
+MB-4722 BAP1 COL22A1 DNAH2 GATA3 PIK3CA SYNE1                                           
+MB-4723 ARID1A FANCD2 PDE4DIP PIK3CA                                             
+MB-4724 ASXL1 BIRC6 MUC16 PIK3CA TP53 UTRN                                           
+MB-4725 CTNNA3 FBXW7 GLDC MUC16 OR6A2 RYR2 TP53                                          
+MB-4729 ARID2 COL6A3 PDE4DIP PPP2R2A STMN2 TP53                                           
+MB-4730 ARID1B ASXL1 CBFB GATA3 KMT2C PDE4DIP PIK3CA SYNE1 TG TTYH1                                       
+MB-4731 ARID1B MUC16 PBRM1 TP53                                             
+MB-4732 COL12A1 DNAH11 TP53                                              
+MB-4733 ASXL1 DTWD2 PIK3CA SETDB1 SYNE1 TP53                                           
+MB-4735 KMT2D MUC16 SIK2                                              
+MB-4737 ERBB3 GATA3 HERC2 MUC16 NEK1                                            
+MB-4738 AHNAK2 CBFB KMT2D PIK3CA SYNE1                                            
+MB-4739 AHNAK ARID1B DNAH11 DTWD2 MAP2K4 NCOR1 PIK3CA USP9X                                         
+MB-4741 CDH1 MAP3K1 NPNT PDE4DIP PIK3CA SYNE1                                           
+MB-4742 KMT2C MAP3K1 PIK3CA RB1 RYR2                                            
+MB-4743 AKT2 COL6A3 DNAH2 HDAC9 PIK3CA THADA                                           
+MB-4744 AKT1 CBFB GATA3 MYO1A UBR5 USH2A USP9X                                          
+MB-4745 AHNAK2 COL22A1 DNAH11 HERC2 KMT2C MUC16 PTPRM ROS1 SMARCC2 TBX3 TG TP53                                     
+MB-4746 ARID1A ARID1B CDH1 CTCF DNAH11 GATA3 GPR124 JAK1 MUC16 PIK3CA RYR2 TBX3 USH2A                                    
+MB-4749 AHNAK2 AKT2 CDH1 COL22A1 DNAH2 EP300 GATA3 MYH9 NCOR1 PIK3CA RUNX1 USH2A                                     
+MB-4750 CDH1 PIK3CA PRKCE ROS1 RPGR TG                                           
+MB-4752 KMT2D NCOR1 TP53                                              
+MB-4757 AGMO DNAH11 DNAH5 KMT2D ROS1 TP53                                           
+MB-4758 ARID2 DNAH11 DNAH2 ROS1 SYNE1 TP53 USH2A                                          
+MB-4760 AHNAK2 BAP1 COL22A1 PIK3CA                                             
+MB-4762 MAP3K1 PDE4DIP PIK3CA RYR2 SETD2                                            
+MB-4763 BIRC6 PIK3CA RYR2 TP53                                             
+MB-4764 CDH1 COL6A3 PIK3CA                                              
+MB-4767 BIRC6 COL6A3 LAMA2 NOTCH1                                             
+MB-4769 AKAP9 CDH1 FANCA HERC2 KMT2D MLLT4 MYH9 PIK3CA SBNO1 USH2A                                       
+MB-4770 AHNAK CHD1 FAM20C MUC16 PALLD PBRM1 PIK3R1 THSD7A TP53                                        
+MB-4771 MYO1A PDE4DIP PIK3CA                                              
+MB-4778 AHNAK AHNAK2 AKAP9 GH1 HERC2 JAK1 KMT2C LAMB3 SMARCC1 SYNE1                                       
+MB-4779 BIRC6 MAP3K1 MUC16 PIK3CA SYNE1 UBR5                                           
+MB-4782 GPR124 HERC2 PIK3R1 RUNX1                                             
+MB-4784 EP300 GATA3 RYR2 SYNE1                                             
+MB-4785 AHNAK BRCA2 CBFB GATA3 PTEN                                            
+MB-4787 FAM20C GATA3 HERC2 KMT2C PIK3CA PRKCQ SF3B1 TG                                         
+MB-4790 AFF2 LAMB3 MEN1 SYNE1 USP9X                                            
+MB-4791 AHNAK AHNAK2 AKAP9 APC ARID1B BRCA2 COL12A1 CTNNA3 DCAF4L2 DNAH11 DNAH5 EGFR EP300 FLT3 FOXO3 KDM3A KMT2C MAP3K10 MUC16 NEK1 NF1 NRG3 PIK3CA PIK3R1 PRKCQ PRKG1 RYR2 SETD2 SETDB1 SIK1 SIK2 SMAD4 SMARCC2 STK11 SYNE1 TG TP53 UTRN           
+MB-4792 ATR GPR124 SBNO1 STAB2 SYNE1 TP53                                           
+MB-4793 AHNAK2 BIRC6 MUC16 ROS1 SHANK2 SYNE1 TP53                                          
+MB-4794 GATA3 HERC2 NOTCH1 SHANK2 USP9X                                            
+MB-4796 BRIP1 DNAH2 GATA3 SETD2                                             
+MB-4797 CDH1 SMAD4                                               
+MB-4798 COL12A1 GATA3 MUC16 NCOR1 SIK2                                            
+MB-4800 COL22A1 DNAH5 LIFR NOTCH1 PIK3CA STAB2 USH2A                                          
+MB-4801 ARID1B DNAH5 KMT2C MAP3K1 NOTCH1 PIK3CA SBNO1 THADA                                         
+MB-4802 CDH1 KMT2C NCOR2 PIK3CA RB1 ROS1                                           
+MB-4805 AHNAK AHNAK2 AKT1 SIK2 TG                                            
+MB-4806 ATR CACNA2D3 KMT2D MAP3K1                                             
+MB-4809 EGFR HERC2 NOTCH1 TP53                                             
+MB-4814 PIK3CA TAF4B TP53                                              
+MB-4818 AHNAK2 COL6A3 DCAF4L2 MUC16 NF2                                            
+MB-4820 GATA3 MYO3A RYR2 SMARCC2 USP9X                                            
+MB-4822 ARID1A GATA3 MAP2K4 PIK3CA                                             
+MB-4825 ARID2 CACNA2D3 DNAH2 HERC2 MUC16 NRG3                                           
+MB-4827 DNAH11 DNAH2 KMT2C PIK3CA UBR5                                            
+MB-4828 AKT2 BRCA1 CDH1 COL6A3 MYO3A RUNX1 RYR2 SIK2                                         
+MB-4829 CDH1 CLRN2 LAMB3 MUC16 PIK3CA PTPRD                                           
+MB-4832 MAP2K4 PIK3CA UTRN                                              
+MB-4834 ASXL1 DNAH5 GPR124 MUC16 NCOA3 RPGR RYR2 SHANK2 SYNE1 THADA UBR5                                      
+MB-4836 AHNAK ARID1A ARID5B GATA3 LAMB3 MUC16 PIK3CA SETD2 STAB2 THADA UTRN                                      
+MB-4838 DNAH5 ERBB3 FRMD3 MLLT4 TP53                                            
+MB-4839 BRIP1 RYR2                                               
+MB-4843 AHNAK COL12A1 FANCD2 GLDC KMT2C MAP3K1 NCOR1 PIK3CA RYR2                                        
+MB-4845 PDE4DIP PIK3CA                                               
+MB-4846 CDH1 FANCA FOXP1 PIK3CA ROS1 RYR2                                           
+MB-4849 ATR BCAS3 NRG3 PIK3CA RYR2                                            
+MB-4851 ALK CASP8 EP300 LAMA2 MAP3K1 PIK3CA SF3B1                                          
+MB-4853 CDH1 GATA3 NCOR2 SETD2 SYNE1                                            
+MB-4855 CTNNA1 FRMD3 GATA3 KDM6A KMT2C MAP3K10 MUC16 STK11 TP53                                        
+MB-4858 KDM6A RYR2 TP53                                              
+MB-4859 DCAF4L2 KRAS PIK3CA RPGR TAF1                                            
+MB-4860 CDH1 DNAH5 EP300 PIK3CA SIK1 TP53                                           
+MB-4862 AKAP9 ALK COL12A1 ERBB4 NF1 ROS1 TP53 USP9X UTRN                                        
+MB-4865 FRMD3 GLDC MUC16 ROS1 SBNO1 TP53                                           
+MB-4866 KMT2D MLLT4                                               
+MB-4867 AHNAK2 EP300 MYH9 OR6A2 PIK3CA                                            
+MB-4869 DNAH5 KMT2D PIK3CA SHANK2                                             
+MB-4870 COL12A1 GLDC SYNE1 USH2A                                             
+MB-4871 AHNAK2 HDAC9 PDE4DIP PIK3CA RASGEF1B SHANK2 SYNE1 USH2A                                         
+MB-4872 AHNAK2 PIK3CA SMAD2                                              
+MB-4873 AHNAK2 BIRC6 CDKN1B GATA3 MUC16 PIK3CA TBX3                                          
+MB-4876 CACNA2D3 DNAH5 EP300 HERC2 SETD2                                            
+MB-4878 ARID1A ERBB4 MUC16 PIK3CA RYR2                                            
+MB-4879 APC ATR HERC2 MAGEA8 MYH9 NCOR2 SYNE1 TP53 UTRN                                        
+MB-4880 ACVRL1 AHNAK2 ARID1A FOXO3 KMT2D MYH9 TP53                                          
+MB-4881 AGTR2 AHNAK2 GLDC NOTCH1 PALLD PIK3R1 PTPN22 TG TP53 USH2A                                       
+MB-4882 ASXL2 CDKN1B CLK3 PIK3CA                                             
+MB-4883 AHNAK AHNAK2 APC FOXO1 GPS2 MAP2K4 PIK3CA USP28                                         
+MB-4886 AHNAK2 AKAP9 ARID5B COL12A1 CTNNA3 DNAH2 KMT2C MYH9 PTPRD TP53                                       
+MB-4887 AHNAK2 AKAP9 ASXL1 KDM3A MAP2K4 MAP3K1 NOTCH1 PIK3CA SETDB1 TP53                                       
+MB-4888 AHNAK2 ERBB3 KLRG1 L1CAM MAGEA8 RB1 RPGR THADA TP53                                        
+MB-4893 AHNAK CTNNA3 PTPN22 SYNE1 TAF4B TP53                                           
+MB-4894 FAM20C FANCA RB1 TP53                                             
+MB-4896 RPGR STAB2 TP53                                              
+MB-4897 AHNAK2 ARID2 L1CAM PIK3CA TG                                            
+MB-4898 AHNAK2 CDH1 ERBB3 PIK3CA SYNE1                                            
+MB-4899 ATR GATA3 KMT2C KMT2D MLLT4 PIK3CA TG THADA                                         
+MB-4900 COL6A3 DNAH11 SETDB1 TP53 USP28                                            
+MB-4904 AKAP9 MUC16 PIK3CA SIK1 SYNE1 UTRN                                           
+MB-4906 COL6A3 DNAH11 SYNE1                                              
+MB-4908 AKAP9 DNAH2 EP300 ERBB3 LAMA2 MYO1A PRKCZ TP53                                         
+MB-4911 LAMA2 NRG3 TP53 USH2A                                             
+MB-4912 KMT2C PIK3CA STK11                                              
+MB-4925 KMT2C                                                
+MB-4928 AFF2 ASXL1 DNAH11 DNAH2 FANCA NF1 PIK3CA SYNE1 TP53 USH2A                                       
+MB-4929 AHNAK AHNAK2 ASXL1 BIRC6 HERC2 KMT2D LAMA2 MUC16 TBX3 TP53                                       
+MB-4930 AHNAK2 COL6A3 KDM3A PIK3CA TP53 UTRN                                           
+MB-4931 FBXW7 KRAS MUC16 PBRM1 PRR16 RB1 RUNX1 TP53 USH2A UTRN                                       
+MB-4933 ARID1A GATA3                                               
+MB-4934 AHNAK2 ARID1B BIRC6 DNAH5 FOXO3 NOTCH1 PBRM1 STK11 USH2A USP9X                                       
+MB-4935 DNAH11 MUC16 SETDB1 THADA                                             
+MB-4937 AHNAK ASXL2 CDH1 COL6A3 TAF4B                                            
+MB-4938 AHNAK2 BIRC6 BRCA2 DNAH2 DNAH5 FANCD2 HERC2 MLLT4 MUC16 NCOA3 NOTCH1 PDE4DIP PIK3CA ROS1 STAB2 STK11 TG USP28 ZFP36L1                              
+MB-4941 AKT1 KDM3A RB1                                              
+MB-4942 COL6A3 CTNNA3 MUC16 PIK3CA PTPRD TP53                                           
+MB-4944 CTNNA3 GATA3 MUC16 PIK3CA USP28                                            
+MB-4945 AKAP9 ARID2 NOTCH1 PTPRM TP53                                            
+MB-4949 AKAP9 CTCF L1CAM MAP3K1 NCOR1 PIK3CA PTPRM SMAD2 SYNE1 TG THADA TP53 USH2A UTRN                                   
+MB-4950 CTCF DNAH11 LIPI PTEN USP28                                            
+MB-4952 AHNAK AHNAK2 APC FANCD2 GATA3 MUC16 NOTCH1 TG TP53                                        
+MB-4956 HERC2 SETD1A                                               
+MB-4957 MAP3K1 NCOR2 TTYH1                                              
+MB-4959 ASXL2 COL22A1 MAP3K1 NCOA3 PIK3CA SETD2                                           
+MB-4961 AHNAK ARID1B CDH1 COL6A3 MAP3K1 MUC16 NT5E PIK3CA                                         
+MB-4962 AHNAK2 PIK3CA USH2A                                              
+MB-4965 AHNAK AKT1 COL6A3 MUC16 SF3B1 USP9X                                           
+MB-4966 AFF2 ARID1A CDH1 PIK3CA                                             
+MB-4967 COL12A1 DNAH11 MAP3K1 PIK3CA                                             
+MB-4968 ASXL2 COL22A1 FANCA KMT2C MUC16 NCOR1 RB1                                          
+MB-4969 AGMO ARID1B CTCF CTNNA3 FANCA MAP3K1 MTAP NCOR1 NCOR2 PALLD PIK3CA SETD2 TG                                    
+MB-4970 AKT1 DNAH5 GATA3 NCOR2 PIK3CA USP9X                                           
+MB-4974 AHNAK PIK3CA TP53 USH2A USP28                                            
+MB-4976 COL6A3 PIK3CA                                               
+MB-4977 ALK ASXL2 CDH1 MLLT4 PTPRM TBX3                                           
+MB-4978 CBFB CDH1 FAM20C TBX3 ZFP36L1                                            
+MB-4981 CASP8 NF1 PIK3CA                                              
+MB-4982 AHNAK COL6A3 EP300 PIK3CA TP53                                            
+MB-4986 AHNAK2 DCAF4L2 MUC16 NF2 PRR16 PTPRD                                           
+MB-4987 CDH1 FANCA KMT2D MUC16 PDE4DIP SMARCD1                                           
+MB-4991 KMT2D LAMA2 NCOA3 TBX3                                             
+MB-4992 ARID1B BAP1 BIRC6 CDH1 ERBB2 ERBB3 MUC16 SYNE1                                         
+MB-4993 AHNAK2 AKT1 COL12A1 DNAH11 GPR32 MUC16 MYH9 NEK1 NF1 SETD2 SYNE1 TP53                                     
+MB-4994 AHNAK2 DNAH5 GLDC PIK3R1 RUNX1 SYNE1                                           
+MB-4996 AHNAK AHNAK2 AKAP9 APC ASXL1 MUC16 PIK3CA PRKCZ STAB2                                        
+MB-4998 ARID1A CDH1 DNAH11 ERBB2 MAP3K1 MUC16 NCOR2 PIK3CA RPGR SHANK2 USH2A                                      
+MB-4999 COL12A1 DNAH5 GATA3 MEN1 ROS1 THSD7A                                           
+MB-5001 AHNAK COL6A3 DCAF4L2 GATA3 KDM3A LIFR MUC16 PTEN SETD2                                        
+MB-5004 AHNAK2 AKAP9 ARID5B HERC2 MUC16 PIK3R1 PRKACG PTEN PTPRD RB1 SBNO1 SIK1 STAB2 SYNE1 TP53                                  
+MB-5008 AKAP9 LDLRAP1 PTEN TP53                                             
+MB-5011 CHD1 KMT2C NOTCH1 PIK3CA                                             
+MB-5013 AHNAK NEK1 PIK3CA                                              
+MB-5014 AFF2 PIK3CA                                               
+MB-5015 COL6A3 GATA3 MLLT4 NCOA3 USP9X                                            
+MB-5017 DCAF4L2 KMT2C LAMA2 TP53                                             
+MB-5018 MUC16 RYR2 TG                                              
+MB-5019 FANCD2 PIK3CA TP53 USH2A                                             
+MB-5020 BIRC6 CBFB GATA3 GLDC KMT2C PIK3CA SHANK2 USH2A                                         
+MB-5027 AKAP9 COL6A3 GATA3 PIK3CA TBX3                                            
+MB-5033 BIRC6 GATA3 MAP2K4 MEN1 MYO1A PDE4DIP RYR2 SETDB1                                         
+MB-5035 ASXL2 BIRC6 CHEK2 FAM20C FBXW7 GATA3 GH1 KDM6A KMT2C PIK3CA PRKCQ SIK2 SMARCC1 SYNE1 TG                                  
+MB-5039 GATA3 TG                                               
+MB-5040 DNAH2 FAM20C GPR124 JAK1                                             
+MB-5041 BIRC6 TP53                                               
+MB-5043 COL12A1 MAP3K1 PIK3CA SHANK2                                             
+MB-5044 AFF2 DNAH11                                               
+MB-5045 AHNAK2 AKAP9 BRIP1 DNAH2 GH1 LAMA2 MUC16 MYH9 NCOR2 NEK1 TP53                                      
+MB-5048 CHEK2 GATA3 HERC2 KMT2C MAP2K4 MUC16 PIK3CA SMAD4                                         
+MB-5049 ATR MAGEA8 NOTCH1                                              
+MB-5050 KMT2C KMT2D MAP3K1 PIK3CA TBX3 UBR5                                           
+MB-5052 PIK3CA RYR2 TP53                                              
+MB-5053 CDH1 DNAH5 HERC2 PIK3CA TG                                            
+MB-5054 MUC16 PIK3CA SYNE1 TP53                                             
+MB-5057 AGTR2 AKAP9 BRIP1 DNAH11 DNAH5 GPR124 HERC2 NCOA3 PTEN SYNE1 THSD7A TP53                                     
+MB-5058 DNAH11 DNAH5 KMT2C MAP3K1 PIK3CA TP53                                           
+MB-5059 AHNAK2 AKT1 CBFB ERBB2 GATA3 NCOR2                                           
+MB-5060 BIRC6 DTWD2 LDLRAP1 PIK3CA RASGEF1B STAB2                                           
+MB-5061 AGTR2 RPGR                                               
+MB-5062 AKAP9 BRCA1 COL6A3 DNAH11 GATA3 MUC16 PRKCQ                                          
+MB-5063 COL6A3 MYO1A RB1 SYNE1 TP53                                            
+MB-5064 AHNAK2 ARID5B DNAH5 ERBB4 HERC2 PDE4DIP RYR2 SYNE1 TG USH2A                                       
+MB-5065 RYR2 TAF4B TP53                                              
+MB-5066 GATA3 MUC16 NOTCH1 PIK3CA                                             
+MB-5068 CHEK2 DNAH5 HERC2 MUC16 PDE4DIP                                            
+MB-5070 BRCA1 DNAH5 KMT2D NCOR2 RYR2 SETD2 SHANK2                                          
+MB-5072 AHNAK2 DNAH11 HERC2 LIFR NPNT PBRM1 PIK3CA TP53 UTRN                                        
+MB-5073 AHNAK2 COL22A1 GH1 LAMA2 MYO1A ROS1 TBX3                                          
+MB-5074 CBFB CDH1 GATA3 MUC16 PDE4DIP                                            
+MB-5078 ARID1A ATR MAP3K1 SETD1A TP53 UBR5                                           
+MB-5079 HDAC9 JAK1 PIK3CA RYR2 TBX3 TG UTRN                                          
+MB-5081 COL22A1 COL6A3 DNAH2 PBRM1 PTPRM RYR2 TP53                                          
+MB-5084 ARID2 CBFB DNAH11 KMT2C SYNE1                                            
+MB-5086 DNAH2 JAK1 MUC16 PIK3CA SMARCC2                                            
+MB-5088 BRCA1 LAMA2 PIK3CA SBNO1 SF3B1 USP9X                                           
+MB-5092 AHNAK CBFB CDH1 MYH9 NOTCH1 PIK3CA SETD1A                                          
+MB-5093 EGFR GATA3 PTPN22 SMAD4                                             
+MB-5097 TP53 UTRN                                               
+MB-5098 BRCA2 COL6A3 DNAH11 DNAH2 FLT3 JAK1 MUC16                                          
+MB-5100 CACNA2D3 COL6A3 LIPI SYNE1 TP53 UBR5                                           
+MB-5101 TP53                                                
+MB-5102 NCOR2 NPNT PBRM1 PTPN22 TG TP53                                           
+MB-5105 MYO1A PIK3CA                                               
+MB-5107 BRCA1 PIK3CA                                               
+MB-5110 CBFB CDH1 KMT2D NCOR1 NF2 PDE4DIP PIK3CA                                          
+MB-5113 L1CAM USH2A                                               
+MB-5114 AKAP9 PDE4DIP SYNE1 TBX3 TP53 UBR5                                           
+MB-5115 CHD1 DNAH11 RYR2                                              
+MB-5116 AHNAK2 HERC2 MAP2K4 MUC16 ROS1 SYNE1                                           
+MB-5117 CBFB GATA3 KMT2C MUC16                                             
+MB-5118 AKT1 DNAH5 GPR124 MYH9 TBX3                                            
+MB-5119 DNAH2 KMT2D MLLT4 PIK3CA TP53                                            
+MB-5120 APC KMT2C L1CAM LIFR MAP2K4 MUC16 PIK3CA TP53                                         
+MB-5121 ARID1B ATR CDH1 LAMB3 MUC16 PIK3CA SHANK2                                          
+MB-5122 EP300 SHANK2 SPACA1                                              
+MB-5123 DNAH11 GPR124 KDM6A KMT2C MYO3A PIK3CA                                           
+MB-5124 BRIP1 CDH1 DNAH11 KMT2C PIK3CA                                            
+MB-5126 NF1 RB1 TP53                                              
+MB-5127 AHNAK2 ARID1B                                               
+MB-5130 AHNAK ASXL2 BCAS3 BRCA2 CDH1 ERBB2 PIK3CA PIK3R1 RYR2 SMAD4 TP53                                      
+MB-5134 ASXL1 ASXL2 CBFB KMT2C LAMB3 PIK3CA                                           
+MB-5135 AHNAK2 AKAP9 EP300 RUNX1 SYNE1 TP53 UBR5                                          
+MB-5138 AKAP9 MAP3K1 PDE4DIP PIK3CA TP53                                            
+MB-5139 NF1 RYR2 SYNE1                                              
+MB-5143 AHNAK FOXP1 MUC16 PIK3CA TG                                            
+MB-5144 AKT2 CBFB KMT2D PTEN                                             
+MB-5145 MYH9 TP53                                               
+MB-5147 AFF2 AHNAK AHNAK2 CDH1 DNAH11 MUC16 PIK3CA SMARCC2 SYNE1 THADA                                       
+MB-5148 BAP1 DNAH5 PDE4DIP PIK3CA                                             
+MB-5150 NCOA3                                                
+MB-5152 ASXL1 BRCA1 COL6A3 DNAH2 EGFR ERBB2 GPR124 KDM3A KMT2C MUC16 NOTCH1 PRR16 PTEN SF3B1                                   
+MB-5154 THADA TP53                                               
+MB-5155 DNAH2 GATA3 MAP2K4 NCOA3 PIK3CA TAF1 TG                                          
+MB-5157 DCAF4L2 FAM20C NOTCH1 PIK3CA SIK1 SYNE1 TBX3 TP53                                         
+MB-5160 CDH1 DNAH11 GPR124 HERC2 KMT2C MAP3K13 NCOR2 SYNE1                                         
+MB-5161 AHNAK2 KMT2C PIK3CA USH2A                                             
+MB-5162 AHNAK2 SETD2 SYNE1                                              
+MB-5163 ARID1B KMT2C MUC16 NF1 PIK3CA SYNE1                                           
+MB-5164 AHNAK2 BRCA1 ERBB2 KMT2C PDE4DIP THSD7A USP9X                                          
+MB-5166 ARID1A ATR BRCA1 CDKN1B MYH9 PIK3CA SETDB1 TP53                                         
+MB-5167 CDH1 KMT2C PIK3CA PTPRD RUNX1                                            
+MB-5169 AHNAK2 COL6A3 GPR124 LAMB3 MBL2 MUC16 NR3C1 PIK3CA SYNE1 THSD7A UTRN                                      
+MB-5171 ERBB3 KMT2D PTPRM                                              
+MB-5172 AHNAK2 BIRC6 COL22A1 CTNNA3 DNAH11 GPR124 MUC16 NPNT                                         
+MB-5173 CTNNA3 DNAH5 ERBB2 KMT2C MYO3A TP53                                           
+MB-5174 ASXL1 COL22A1 LAMB3 NT5E RUNX1 TP53                                           
+MB-5175 PTPRD TP53                                               
+MB-5176 AHNAK CLRN2 COL6A3 CTCF KMT2C LAMB3 MYO1A NCOA3 NCOR2 PDE4DIP SIK2 TG THADA                                    
+MB-5177 BIRC6 COL22A1 PRKCZ                                              
+MB-5178 AHNAK2 CDH1 COL22A1 DNAH5 PBRM1                                            
+MB-5179 AKAP9 CDH1 KDM3A KMT2C MUC16 PIK3CA SBNO1 TP53                                         
+MB-5182 ASXL2 GPR124 MAP3K1 PIK3CA                                             
+MB-5183 ARID5B CCND3 CDH1 DNAH2 MLLT4 PIK3CA PRKACG RUNX1                                         
+MB-5184 BRCA2 CDH1 CTNNA3 DNAH2 PDE4DIP PIK3CA                                           
+MB-5185 ALK ARID1B COL22A1 KMT2C MAP3K1 NCOR2 PIK3CA                                          
+MB-5186 AHNAK2 APC CACNA2D3 CHD1 CTNNA3 DNAH2 DNAH5 KMT2D MAP3K10 PDE4DIP SMARCC1 TP53                                     
+MB-5188 EP300 LAMA2                                               
+MB-5189 MUC16 MYH9 PTPRM TP53                                             
+MB-5190 DCAF4L2 MYO3A PIK3CA SETD1A TP53                                            
+MB-5191 APC ARID1B CDH1 HIST1H2BC MYH9 MYO1A PDE4DIP                                          
+MB-5193 ARID1A BIRC6 GATA3 PIK3CA PTPRD THSD7A                                           
+MB-5195 AGMO HDAC9 MUC16 SETD1A TP53                                            
+MB-5196 ASXL2 BRCA2 CTCF CTNNA3 HERC2 KMT2D NOTCH1 NR3C1 PIK3CA SMARCC2 SYNE1 THSD7A                                     
+MB-5197 PDE4DIP                                                
+MB-5199 PIK3R1 TP53                                               
+MB-5200 AHNAK2 CLRN2 NCOA3 PIK3CA SF3B1                                            
+MB-5201 COL22A1 PIK3CA                                               
+MB-5204 DNAH11 PALLD PIK3CA RYR2 TG UTRN                                           
+MB-5205 AHNAK2 ATR COL12A1 HERC2 NOTCH1 RYR2 TP53 USH2A                                         
+MB-5206 COL6A3 KMT2D NPNT                                              
+MB-5208 FANCA FANCD2 PTPRM RYR2 STK11 TP53                                           
+MB-5209 AHNAK2 DCAF4L2 DNAH2 EGFR MUC16 TP53                                           
+MB-5211 ARID1A DCAF4L2 GPS2 KMT2C MYO1A NF1 PIK3CA                                          
+MB-5212 COL12A1 DNAH11 MLLT4 RYR2                                             
+MB-5213 BRCA2 CACNA2D3 KMT2D LIFR MUC16 PIK3CA PTPRD TP53                                         
+MB-5214 PTPRD                                                
+MB-5215 ARID1A HERC2 TG                                              
+MB-5218 AKAP9 DNAH11 DNAH2 PPP2CB                                             
+MB-5221 ERBB4 MAP3K1 NOTCH1 PIK3CA TBL1XR1                                            
+MB-5222 DNAH11 FOXO3 MYH9                                              
+MB-5223 DNAH2 TP53                                               
+MB-5224 AHNAK2 CDH1 COL22A1 KMT2C MAP3K1 PIK3CA SF3B1 TBL1XR1                                         
+MB-5225 AGMO AHNAK2 DNAH2 MAP3K1 MLLT4 PDE4DIP PIK3CA TP53                                         
+MB-5226 ARID1A CASP8 GATA3 KMT2C TBX3                                            
+MB-5227 AHNAK2 AKT1 DNAH2 PDE4DIP PIK3CA                                            
+MB-5228 AHNAK AKT1 ARID2 MAP3K10 SMARCC1 TP53 USP28                                          
+MB-5229 AHNAK AHNAK2 CDH1 MUC16 PIK3CA TG TP53                                          
+MB-5230 FOXO3 GH1 LAMA2 MAP3K1 MUC16 UTRN                                           
+MB-5231 DNAH5 KMT2D SETD1A TP53 UBR5                                            
+MB-5232 BRCA1 DNAH2 MAP2K4 TP53                                             
+MB-5233 ARID2 DNAH2 KMT2C PIK3CA                                             
+MB-5235 AHNAK2 ALK DNAH11 DNAH2 MAP3K1 PDE4DIP PTEN THADA TP53                                        
+MB-5236 APC ERBB3 ERBB4 THADA TP53                                            
+MB-5238 CDH1 LAMA2 MAP3K10 USH2A                                             
+MB-5239 MYH9                                                
+MB-5240 DNAH11 KMT2C KMT2D MLLT4 PRKCQ                                            
+MB-5243 DNAH5 KMT2D NEK1 PTPN22 SETDB1 TG TP53                                          
+MB-5244 ARID1A GATA3 NCOR1 PIK3CA SETD1A                                            
+MB-5251 MUC16 PIK3CA                                               
+MB-5253 AHNAK2 CDH1 NOTCH1 PIK3CA                                             
+MB-5256 AKT1 GATA3 MAP3K1                                              
+MB-5258 AGTR2 AHNAK MUC16 RB1 TP53                                            
+MB-5259 ARID2 CASP8 NCOR2 PIK3CA PRKCQ SYNE1 TG THSD7A TP53 USH2A                                       
+MB-5260 AHNAK2 AKT1 MUC16 TG                                             
+MB-5261 DNAH11 KMT2C SIK2                                              
+MB-5264 COL6A3 DNAH11 GATA3 GPS2 LAMA2 NF1 SIK2                                          
+MB-5266 APC COL22A1 JAK1 KMT2C KMT2D MUC16 MYO1A THSD7A TP53                                        
+MB-5267 AHNAK FANCA MUC16 PIK3CA RYR2 UBR5                                           
+MB-5268 DNAH2 GATA3 PDE4DIP PIK3CA PTPRD                                            
+MB-5270 AKAP9 GATA3 JAK1 KMT2D MAP3K13 PIK3CA                                           
+MB-5271 AHNAK ERBB3 HERC2 ROS1 TBL1XR1 THADA TP53 UBR5 USP28                                        
+MB-5272 AHNAK AHNAK2 DNAH5 KDM6A KMT2C MUC16 PIK3CA SMARCC2 TP53                                        
+MB-5273 SETD2 SYNE1                                               
+MB-5275 AFF2 AKAP9 ALK APC ARID1B ARID2 ASXL1 ATR BIRC6 BRCA2 CDKN2A CTCF CTNNA3 DNAH5 FANCA FANCD2 FOXO1 GATA3 GLDC HERC2 KDM6A KMT2C LAMB3 MAP3K1 MAP3K13 MLLT4 MUC16 MYO3A NCOR1 NF1 PIK3CA PRKCE PTPN22 PTPRD RASGEF1B RPGR RUNX1 RYR2 SETD2 SETDB1 SHANK2 SMAD4 SMARCB1 STAB2 SYNE1 TBX3 THADA TTYH1 UTRN
+MB-5277 AHNAK2 HDAC9 HERC2 TG                                             
+MB-5278 AKAP9 BAP1                                               
+MB-5279 GATA3 KMT2C MAP3K1 PIK3CA SYNE1 TAF1                                           
+MB-5280 ARID1A ASXL1 LAMB3 MAP2K4 MUC16 NF1 PDE4DIP PIK3CA                                         
+MB-5281 AGMO BIRC6 DNAH11 MAP2K4 PIK3CA SYNE1 TAF1                                          
+MB-5284 AHNAK2 CTNNA1 ERBB3 MAP3K1 MUC16 NEK1                                           
+MB-5287 CDH1 L1CAM MAP2K4 PIK3CA RUNX1                                            
+MB-5288 APC CBFB CLK3 CLRN2 GATA3 GPS2 KMT2D MAP3K1 MUC16 NF1 NRG3 PIK3CA PRKG1 PTPRD SYNE1 TBX3 TG TP53                               
+MB-5290 AHNAK AKT1 CTCF EGFR FOXO3 GATA3 PTPN22                                          
+MB-5291 CTCF DTWD2 MAP2K4 TG                                             
+MB-5292 AGMO NCOR1 PIK3CA PRKACG TP53                                            
+MB-5293 ACVRL1 EP300 KMT2D LIFR MUC16 NPNT PBRM1 PIK3CA SHANK2                                        
+MB-5294 MYO1A SMARCC1 TP53 USP9X UTRN                                            
+MB-5295 DNAH11 EGFR FANCA HERC2 MUC16 NOTCH1 PDE4DIP PIK3R1 TP53                                        
+MB-5296 CHD1 HERC2 MUC16 NOTCH1 RUNX1 STK11 TP53                                          
+MB-5298 AHNAK2 TP53 USP28                                              
+MB-5299 AHNAK ATR PIK3CA SF3B1 SYNE1 TG TP53                                          
+MB-5300 CBFB GATA3 KMT2D NRG3 PRKACG PTPRM                                           
+MB-5305 FANCD2 GATA3 MUC16 THADA                                             
+MB-5306 AHNAK CTCF DNAH11 GATA3 PTPRD TAF4B TG                                          
+MB-5308 DNAH5 PDE4DIP PIK3CA SIK2                                             
+MB-5310 AHNAK2 KMT2C PIK3CA SYNE1                                             
+MB-5311 AKT1 ARID1A COL12A1 GATA3 HERC2 MYO3A PDE4DIP TBL1XR1                                         
+MB-5312 ARID5B USP28                                               
+MB-5313 FANCA PIK3CA SHANK2 TP53 TTYH1                                            
+MB-5315 KMT2D MLLT4 NF1 PIK3CA ROS1 TP53                                           
+MB-5317 APC BIRC6 FANCD2 HERC2 MUC16 UTRN                                           
+MB-5318 LDLRAP1 RPGR TP53                                              
+MB-5322 CTCF DNAH2 GPR124 GPR32 LAMA2 MAP3K1 PIK3CA                                          
+MB-5323 BRCA1 MAP3K1 PTPRD                                              
+MB-5324 AHNAK DNAH5 HERC2 KMT2C MAP2K4 MUC16 NCOR1 PIK3CA STAB2 TG USP9X                                      
+MB-5326 ARID1A CDH1 HERC2 JAK1 KMT2C PIK3CA PRKACG                                          
+MB-5327 AHNAK2 FBXW7 KDM6A MUC16 PTPRM TP53                                           
+MB-5328 APC BRCA2 USP28                                              
+MB-5329 AHNAK ASXL2 BCAS3 BRCA2 CDH1 ERBB2 KMT2C PIK3CA PIK3R1 RYR2 SMAD4 TP53                                     
+MB-5330 AHNAK GLDC GPR124 MAP3K1 MUC16 NRAS PIK3R1 SETD1A TBX3 TG                                       
+MB-5331 AHNAK ARID1B ATR PRKACG SMAD4 USP28                                           
+MB-5332 BIRC6 COL6A3 DCAF4L2 MAGEA8 MAP3K10 PIK3CA TP53 USH2A                                         
+MB-5334 PIK3CA                                                
+MB-5335 ERBB2 NCOR2 STAB2 TP53                                             
+MB-5338 ARID1A ATR BCAS3 BIRC6 KMT2D PIK3CA SMAD4 THADA TP53 USH2A                                       
+MB-5339 AKT1 MYO1A RYR2 UTRN                                             
+MB-5341 AHNAK APC COL22A1 COL6A3 FOXO3 MYO3A PDE4DIP SYNE1                                         
+MB-5345 MAP3K1 MYO1A PIK3CA PTPRD                                             
+MB-5346 CDKN2A ERBB2 MUC16 PDE4DIP PTEN RPGR RYR2 TP53 ZFP36L1                                        
+MB-5347 AKT1 COL12A1 CTCF EGFR SMARCC2 UTRN                                           
+MB-5348 COL12A1 STAB2 TP53                                              
+MB-5350 AHNAK2 CDH1 USH2A                                              
+MB-5351 AFF2 AHNAK AHNAK2 COL12A1 COL6A3 GPR124 KMT2C PDE4DIP PRKACG                                        
+MB-5358 ALK DNAH11 PRKCZ                                              
+MB-5360 CBFB COL12A1 KMT2C MAP3K1 NEK1 NF1 PIK3CA SYNE1 USH2A                                        
+MB-5361 HDAC9 SIK1 SYNE1 TP53                                             
+MB-5364 AGTR2 AHNAK2 ARID1B DNAH2                                             
+MB-5365 AGTR2 AHNAK2 DNAH2 DNAH5 MAP3K1 MUC16 PDE4DIP PIK3CA                                         
+MB-5366 NCOR2 PIK3CA                                               
+MB-5368 ARID1A COL22A1 MYO1A PDE4DIP PIK3CA SETD1A SF3B1 UTRN                                         
+MB-5369 NCOR1 TBX3                                               
+MB-5370 AHNAK CDH1 FANCA SMARCC1 TTYH1                                            
+MB-5373 COL22A1 PIK3CA PTEN SF3B1                                             
+MB-5377 AHNAK2 BRCA2 HERC2 MUC16 PDE4DIP PIK3CA STAB2 SYNE1                                         
+MB-5378 AHNAK AHNAK2 ARID1B DNAH5 NOTCH1 TP53                                           
+MB-5381 AHNAK AHNAK2 COL6A3 STAB2 THSD7A TP53 TTYH1 USH2A                                         
+MB-5382 GATA3 MAP3K1 MUC16 PIK3CA PTEN USH2A                                           
+MB-5383 HERC2 KDM3A PIK3CA PRPS2 THADA                                            
+MB-5384 AHNAK2 CTNNA3 SETDB1 STK11 THADA USP28                                           
+MB-5386 PIK3CA SBNO1 SYNE1 USH2A                                             
+MB-5388 DNAH5 PIK3CA USH2A                                              
+MB-5389 ACVRL1 AHNAK2 EP300 GLDC MAP2K4 NCOR2 PBRM1                                          
+MB-5390 AHNAK AKT2 MLLT4 ROS1 TP53                                            
+MB-5392 AHNAK2 AKAP9 DNAH11 KMT2D PIK3CA TP53 USH2A                                          
+MB-5393 ARID1A LAMA2 NF1 SETD2 UTRN                                            
+MB-5395 AHNAK2 CDH1 DNAH11 PIK3CA STK11 THADA                                           
+MB-5396 AGMO CDH1 KMT2C PDE4DIP RYR2 SETDB1 TBX3 TG TP53                                        
+MB-5397 AHNAK2 KMT2C OR6A2 PIK3CA TP53                                            
+MB-5398 AFF2 BIRC6 PIK3CA                                              
+MB-5399 CDH1 DNAH11 KMT2C NOTCH1 PIK3CA SGCD                                           
+MB-5401 MAP3K1 PIK3CA                                               
+MB-5402 GATA3 GPS2 MUC16 NCOA3 PIK3CA                                            
+MB-5403 KRAS                                                
+MB-5404 AHNAK AHNAK2 AKT1 ATR BCAS3 BIRC6 ERBB2 ERBB3 GLDC MAP3K1 MYH9                                      
+MB-5405 AHNAK2 AKAP9 EGFR NCOA3 PTPRM SBNO1                                           
+MB-5406 DNAH5 EP300 GPR124 PIK3CA PTEN SF3B1                                           
+MB-5407 AHNAK2 CBFB COL22A1 CTCF GATA3 KMT2D PDE4DIP TBX3 USP9X                                        
+MB-5408 AHNAK AHNAK2 BAP1 KMT2D                                             
+MB-5409 ARID2 HERC2 LDLRAP1 PBRM1 PIK3CA PIK3R1 SYNE1 TP53 USP9X                                        
+MB-5410 CDH1 ERBB4 MAP3K10 MUC16 PIK3CA RUNX1                                           
+MB-5411 AHNAK2 COL12A1 DNAH2 EP300 MUC16 TP53                                           
+MB-5412 AKT1 ARID1A CBFB EGFR FANCD2 HIST1H2BC KMT2C MUC16 PIK3CA                                        
+MB-5414 HERC2 TP53                                               
+MB-5417 AHNAK2 APC BIRC6 CACNA2D3 CHD1 NR3C1 PIK3CA ROS1 TP53                                        
+MB-5418 CDH1 PDE4DIP PIK3CA SIK2                                             
+MB-5420                                                 
+MB-5421 LAMA2 NCOA3 OR6A2 TP53                                             
+MB-5422 CDH1 GPR124 LAMB3 MTAP PIK3CA SGCD                                           
+MB-5424 CDH1 KMT2D PIK3CA USH2A                                             
+MB-5425 ARID1B CDH1 MAP3K10 MUC16 MYH9 PIK3CA                                           
+MB-5426 MAP3K1 NCOR2 SETD1A TP53                                             
+MB-5427 AHNAK KMT2D LAMA2 MUC16 PIK3R1 TP53                                           
+MB-5428 BRCA1 DNAH11 HERC2 MAP2K4 PIK3CA                                            
+MB-5429 AHNAK2 KDM6A NCOR1 TBX3                                             
+MB-5431 ARID2 CTNNA1 DNAH2 KMT2D PDE4DIP SYNE1 TP53 USP28                                         
+MB-5432 AHNAK2 FOXP1 MAP3K1                                              
+MB-5433 ARID1A MYO3A SF3B1 THADA                                             
+MB-5434 AHNAK2 AKAP9 ARID1B BIRC6 COL12A1 COL6A3 CTNNA3 DNAH2 HERC2 PDE4DIP PIK3CA SF3B1 UTRN                                    
+MB-5435 FAM20C FOXO3                                               
+MB-5440 AHNAK2 BCAS3 COL12A1 FLT3 MUC16 RB1 TG TP53                                         
+MB-5441 COL12A1 COL22A1 DNAH2 DNAH5 KMT2C MYO1A NCOR1 PIK3CA ROS1 SETD2 TP53                                      
+MB-5442 DNAH2 RB1 SYNE1 TP53                                             
+MB-5444 ASXL1 BIRC6 CTCF GATA3 RYR2                                            
+MB-5446 ARID1B HERC2 MAP3K1 NF1 PIK3CA TG                                           
+MB-5447 ASXL2 COL12A1 JAK1 KDM3A KMT2C ROS1                                           
+MB-5450 AHNAK2 ARID5B HERC2 PTEN TP53 USH2A                                           
+MB-5451 AHNAK AHNAK2 ARID1A CBFB CTNNA3 GATA3 GPR32 PIK3CA SIK1                                        
+MB-5452 CLK3 COL22A1 MUC16 PIK3CA THSD7A                                            
+MB-5453 AHNAK2 COL22A1 ERBB4 MUC16 MYO1A PALLD PIK3CA SYNE1                                         
+MB-5454 AHNAK2 MUC16 PTEN THADA TP53                                            
+MB-5455 AHNAK2 AKAP9 APC ARID1B CTNNA1 KRAS MAP2K4 PTEN                                         
+MB-5457 AHNAK ERBB4 FOXP1 HERC2 KRAS PIK3R1 PTPRD                                          
+MB-5458 BCAS3 COL12A1 KMT2C LAMA2 PIK3CA TP53 UTRN                                          
+MB-5459 LAMB3 UTRN                                               
+MB-5463 CDH1 PDE4DIP THADA                                              
+MB-5464 ARID5B MYO1A NCOR2                                              
+MB-5465 AHNAK AHNAK2 BRCA1 MUC16 SYNE1 THSD7A TP53                                          
+MB-5468 AKAP9 COL12A1 DNAH11 NRAS TP53                                            
+MB-5470 CDH1 DNAH2 KMT2C MAP3K10 PIK3CA                                            
+MB-5471 AHNAK2 AKAP9 ALK COL12A1 COL22A1 MEN1 PIK3CA SMARCC1 TP53 USH2A                                       
+MB-5472 KMT2C PIK3CA RUNX1                                              
+MB-5473 KMT2C PIK3CA SETD2                                              
+MB-5474 AHNAK AHNAK2 ARID1A GPR32 PDE4DIP TG THADA TP53                                         
+MB-5475 APC GATA3 TBX3                                              
+MB-5477 EP300 PTEN RYR2 THADA USP28                                            
+MB-5478 FAM20C PDE4DIP PIK3CA                                              
+MB-5481 ERBB3 PIK3CA RYR2 TP53                                             
+MB-5482 AHNAK2 EP300 MYO1A PIK3CA TP53                                            
+MB-5483 AHNAK2 BIRC6 COL6A3 CTNNA3 DNAH11 ERBB3 LIPI MUC16 PIK3CA TAF1 TG TP53                                     
+MB-5484 CDH1 CHEK2 LAMA2 NR3C1 PIK3CA RUNX1 THADA                                          
+MB-5485 DNAH5 GPR124                                               
+MB-5486 BAP1 COL12A1 COL22A1 DNAH11 LAMA2 MAGEA8 MYH9 PDE4DIP PIK3CA SETD2 STAB2 SYNE1                                     
+MB-5489 MAP2K4 NCOR1 PIK3CA                                              
+MB-5490 AKAP9 DNAH11 LAMA2 RYR2 SF3B1                                            
+MB-5491 CBFB DNAH2 EGFR FANCA MAP3K13 MYO1A PIK3CA SETD1A SF3B1 SHANK2                                       
+MB-5492 CDH1 CTNNA3 FANCA KLRG1 L1CAM MLLT4 NPNT RYR2                                         
+MB-5493 AHNAK2 AKAP9 CDH1 DNAH5 FANCA MUC16 PIK3CA SBNO1 TP53                                        
+MB-5495 ARID1B CTNNA3 DNAH5 GPR124 KMT2D MUC16 PIK3CA SMARCC2 TG                                        
+MB-5497 AKAP9 DNAH2 FAM20C SHANK2 THADA                                            
+MB-5498 DNAH11 KMT2C MUC16 MYO3A TP53                                            
+MB-5499 LAMA2 PIK3CA SF3B1 SMARCC2 UBR5                                            
+MB-5502 COL6A3 HERC2 KDM6A MUC16 PIK3CA RYR2 TP53                                          
+MB-5505 ATR BCAS3 GLDC MAP3K10 MYO1A PIK3CA USH2A                                          
+MB-5510 AHNAK2 DNAH11 HERC2 MAP3K1 MYO3A PIK3CA PTPRD SIK1 TG                                        
+MB-5511 AHNAK AHNAK2 ARID1A BRCA2 HERC2 KMT2C KMT2D MAP3K1 MUC16 PIK3CA TP53                                      
+MB-5513 ERBB2 MAP2K4 MUC16 NF1 PIK3CA PTPRD TP53                                          
+MB-5514 KMT2C                                                
+MB-5518 AHNAK2 CBFB SETD2 TP53                                             
+MB-5519 AHNAK BRCA2 MUC16 PIK3R1 PTEN THSD7A                                           
+MB-5520 COL22A1 FOXO1 PIK3CA TG TP53                                            
+MB-5521 AHNAK DNAH11 FOXP1 GATA3 GLDC NF1 PIK3CA RYR2 SYNE1                                        
+MB-5525 AHNAK AHNAK2 COL12A1 GATA3 PIK3CA SYNE1 TP53                                          
+MB-5526 AHNAK AHNAK2 COL6A3 MYO3A PIK3CA SHANK2 SYNE1 TG TP53                                        
+MB-5527 NT5E PDE4DIP PIK3CA                                              
+MB-5529 APC COL6A3 FLT3 PPP2R2A TP53                                            
+MB-5530 ATR BIRC6 BRCA2 LAMB3 PTPN22 SYNE1                                           
+MB-5531 FANCD2 KMT2D LAMA2 NPNT PBRM1 TP53                                           
+MB-5532 EGFR PRKG1 ROS1                                              
+MB-5533 ATR CTNNA3 NCOR2 OR6A2 PIK3CA TP53                                           
+MB-5534 BIRC6 PIK3CA PRKCZ TAF1                                             
+MB-5535 LAMA2 MUC16 NCOR1 NOTCH1 TP53                                            
+MB-5540 BIRC6 CHD1 DNAH2 THSD7A TP53 USP9X                                           
+MB-5541 MLLT4 MUC16 NCOA3 NF1                                             
+MB-5543 AHNAK2 AKAP9 KMT2C PDE4DIP PIK3CA TP53                                           
+MB-5547 ARID5B KMT2D MYH9 SYNE1 TP53                                            
+MB-5548 BAP1 HERC2 TP53                                              
+MB-5549 COL12A1 DNAH11 HERC2 LIPI THSD7A TP53                                           
+MB-5550 AKT1 ARID1B STAB2                                              
+MB-5551 COL6A3 GLDC HERC2 LAMA2 NEK1 ROS1 TP53                                          
+MB-5552 CLRN2 PTEN SF3B1 USH2A                                             
+MB-5553 COL6A3 DTWD2 PIK3CA TAF1 TBX3                                            
+MB-5554 ASXL2 BRCA2 CDH1 DNAH11 PIK3CA                                            
+MB-5556 DNAH11 GATA3 KDM6A MUC16 SETD1A TG USH2A                                          
+MB-5558 AHNAK AHNAK2 AKAP9 DNAH11 MUC16 PIK3CA SETD1A TAF4B TP53                                        
+MB-5559 MUC16 TAF1 TP53 USP9X                                             
+MB-5560 AKAP9 TP53                                               
+MB-5562 DNAH11 KMT2C                                               
+MB-5563 BRAF CDH1 COL12A1 ERBB2 KMT2C RUNX1 SYNE1                                          
+MB-5565 DNAH11 LIFR TP53                                              
+MB-5566 DNAH11 RYR2 TP53                                              
+MB-5567 BRIP1 GATA3 PIK3CA SGCD SHANK2                                            
+MB-5571 AHNAK AKT1 CTCF MYH9 SHANK2                                            
+MB-5572 AHNAK2 SHANK2                                               
+MB-5575 COL12A1 COL22A1                                               
+MB-5576 AGMO ALK CASP8 COL6A3 DNAH11 KMT2D NOTCH1 SYNE1 ZFP36L1                                        
+MB-5577 AHNAK2 AKT1 ARID1A EP300 SYNE1 TP53                                           
+MB-5579 AHNAK2 CDH1 MYH9 PIK3CA UBR5                                            
+MB-5580 AHNAK BCAS3 CTCF MUC16 NPNT NR2F1 PIK3CA UTRN                                         
+MB-5582 HERC2 NCOA3 NCOR2 PIK3CA SETD2                                            
+MB-5583 DCAF4L2 MUC16 NCOR2                                              
+MB-5584 AHNAK AHNAK2 AKAP9 ALK ASXL2 CTNNA1 FOXO1 GATA3 HERC2 KMT2D LAMB3 LIFR MYO3A NCOR2 NOTCH1 PIK3CA PPP2R2A PRKCZ SBNO1 SYNE1 TBX3 TP53 USP9X                          
+MB-5588 SF3B1 TP53 USH2A                                              
+MB-5589 ACVRL1 CDKN1B DNAH11 NPNT PIK3CA                                            
+MB-5590 AHNAK2 ARID1A FOXP1 MUC16 PDE4DIP PIK3CA THADA TP53 USP28 UTRN                                       
+MB-5591 AFF2 AHNAK2 AKT1 KDM3A KMT2C MAP3K1 MUC16 NOTCH1 NT5E PIK3CA PRKG1 TG                                     
+MB-5592 AHNAK AHNAK2 CDH1 CDKN1B COL22A1 GATA3 LAMB3 MUC16 PIK3CA RYR2                                       
+MB-5593 AHNAK2 ARID2 BRCA2 KDM6A L1CAM PIK3CA STAB2 THADA TP53                                        
+MB-5596 AHNAK2 BIRC6 COL12A1 COL6A3 ERBB3 FOXP1 LIFR PTPRD PTPRM                                        
+MB-5597 AHNAK2 AKT1 DNAH5 FAM20C NCOR1 STAB2 SYNE1                                          
+MB-5599 MAP3K1 PIK3CA TG                                              
+MB-5601 ASXL1 KMT2C NOTCH1 PIK3CA THADA                                            
+MB-5602 ASXL2 BRCA1 CTNNA3 TP53                                             
+MB-5603 GH1 PIK3CA                                               
+MB-5604 ARID1A FANCA LAMA2 LAMB3 MAP3K1                                            
+MB-5605 AHNAK2 ATR CBFB MUC16                                             
+MB-5613 AFF2 DNAH2 FOXO3 MUC16 SETDB1 SIK2 TP53                                          
+MB-5614 AGMO AHNAK2 MUC16 PIK3CA RUNX1 RYR2 TP53                                          
+MB-5616 DNAH11 ROS1 TP53                                              
+MB-5617 TG THADA                                               
+MB-5620 KMT2D MUC16 PIK3CA PPP2R2A RYR2                                            
+MB-5622 AHNAK COL6A3 DNAH5 PTEN                                             
+MB-5623 ALK CLRN2 GATA3 LIFR MAP3K1 PIK3CA PIK3R1 PTEN RYR2                                        
+MB-5624 AHNAK AKAP9 DNAH11 FLT3 HERC2 MLLT4 NT5E PTPRD PTPRM RYR2 STMN2 SYNE1 TG TP53 USP9X UTRN                                 
+MB-5626 HERC2 MAP3K1 OR6A2 PIK3CA                                             
+MB-5628 AKAP9 FANCD2 LDLRAP1 MUC16 PIK3CA TP53                                           
+MB-5629 DNAH11 ERBB2 ERBB3 PIK3CA PRKCZ ROS1                                           
+MB-5632 CACNA2D3 MAP3K13 STAB2 TG THADA                                            
+MB-5633 AHNAK2 KMT2D                                               
+MB-5634 ARID1B NCOR2 PDE4DIP SYNE1 TP53                                            
+MB-5635 BRCA2 CACNA2D3 DNAH5 HERC2 LAMA2 MYO1A THADA                                          
+MB-5636 ARID1A MAP3K1 SYNE1                                              
+MB-5638 FANCD2 GATA3 THSD7A                                              
+MB-5640 AHNAK2 SHANK2 THADA                                              
+MB-5641 BCAS3 MLLT4 PIK3CA                                              
+MB-5642 ARID1B MAP3K1 NRG3                                              
+MB-5645 ARID1A KMT2C MAP3K1 NOTCH1 PIK3CA UBR5                                           
+MB-5646 BIRC6 BRCA2 KMT2D LARGE NCOR1 NOTCH1                                           
+MB-5647 AHNAK2 COL6A3 NCOR2 NOTCH1 STAB2                                            
+MB-5651 ALK MEN1 MYH9 NCOA3 NF1 RYR2 TP53                                          
+MB-5652 DNAH11 ERBB2 KMT2D LIPI MUC16 RYR2 TP53                                          
+MB-5653 ARID1A LAMA2 PIK3CA SYNE1                                             
+MB-5654 AKAP9 KMT2D NOTCH1 PIK3CA RB1 SYNE1                                           
+MB-5655 BRAF KMT2D LAMA2 MUC16 PTPN22 SHANK2 THSD7A TP53                                         
+MB-5656 AKAP9 ATR EGFR ERBB2 JAK1 PIK3CA PRKACG SETD1A TBX3                                        
+MB-6001 AHNAK2 CBFB SYNE1 TP53                                             
+MB-6006 KMT2C MAP3K1 MAP3K10 MYO1A NOTCH1 PIK3CA SETD1A SPACA1                                         
+MB-6007 AHNAK ASXL1 BRCA1 CDH1 CHD1 DNAH2 ERBB4 MUC16 NCOR2 PIK3CA PRKCE PTPRM RUNX1 SMARCC2 SYNE1 TP53                                 
+MB-6008 AHNAK2 AKAP9 CDH1 COL22A1 DNAH11 MYO3A                                           
+MB-6010 AKT1 BIRC6 KLRG1 KMT2C NCOR2 SETD1A TP53                                          
+MB-6011 ATR BIRC6 FANCA GATA3 NOTCH1 PDE4DIP RUNX1                                          
+MB-6012 ACVRL1 GATA3 KMT2C PDE4DIP PIK3CA RUNX1 RYR2 UTRN                                         
+MB-6014 MAP3K1 PIK3CA                                               
+MB-6016 ARID1A DNAH11 DNAH5 MUC16                                             
+MB-6017 AKAP9 GATA3 LIFR PIK3CA UBR5                                            
+MB-6018 LAMA2 MAP2K4 PIK3CA SETD1A                                             
+MB-6019 AFF2 AGMO ARID1A LIFR MUC16 PIK3CA TP53                                          
+MB-6021 AGTR2 CBFB PIK3CA                                              
+MB-6022 AHNAK KMT2C PIK3CA UBR5 USH2A                                            
+MB-6023 AGMO CDH1 ERBB2 FANCD2 SMARCC2 STAB2                                           
+MB-6024 AKT1 LAMA2 SBNO1                                              
+MB-6026 AKAP9 CDH1 CHD1 DNAH11 FAM20C FOXO3 LAMA2 RYR2 THSD7A TP53                                       
+MB-6029 AHNAK2 ARID1B ERBB3 ERBB4 FLT3 KMT2C KMT2D MAP3K1 PIK3CA TG UTRN                                      
+MB-6030 MAP3K1 NOTCH1 PIK3CA                                              
+MB-6036 COL22A1 HDAC9 KMT2C LAMB3 MUC16 NF1 TP53                                          
+MB-6039 CASP8 DNAH11 MUC16 PIK3CA TP53 UTRN                                           
+MB-6042 AHNAK AKAP9 CBFB DNAH5 MAP3K1 NCOR2 PIK3CA RYR2 SGCD                                        
+MB-6044 ALK KDM3A PIK3CA RASGEF1B RYR2 TP53                                           
+MB-6047 AFF2 AHNAK2 AKAP9 BRCA1 MAP3K1 MUC16 PIK3CA PTPRM RB1 RYR2 SETD2 TP53                                     
+MB-6048 AHNAK MUC16 TP53                                              
+MB-6049 AHNAK2 CHD1 CTNNA3 KLRG1 LIFR MYO1A PDE4DIP PIK3CA PRKCQ PTPRD RYR2 SETD2 SMARCC2 SYNE1 TG THADA TP53                                
+MB-6050 ATR PIK3CA STAB2                                              
+MB-6051 CBFB NOTCH1 PIK3CA SF3B1 TG                                            
+MB-6052 AHNAK2 CHD1 DNAH2 KMT2C                                             
+MB-6053 GATA3 LARGE PIK3CA TP53                                             
+MB-6055 ALK BAP1 CACNA2D3 CCND3 DNAH5 NCOR2 RYR2 SYNE1 TAF1 TG TP53 USH2A                                     
+MB-6058 AHNAK2 CACNA2D3 CHD1 DNAH2 KMT2C SYNE1 TP53 USH2A                                         
+MB-6059 DNAH11 DNAH5 MUC16 NRG3 TP53                                            
+MB-6060 ATR BRCA1 BRCA2 DNAH5 HERC2 MUC16 PDE4DIP PIK3CA SYNE1 USH2A USP9X                                      
+MB-6062 BRCA1 EP300 FANCD2 LARGE NCOR2 TP53 UTRN                                          
+MB-6063 CDH1 PTPRD                                               
+MB-6065 AHNAK APC BIRC6 DNAH2 MAP3K1 PIK3CA PTPRD TBX3                                         
+MB-6068 FOXO3 KMT2D MAP3K1 MUC16 TP53                                            
+MB-6069 KMT2D LAMA2 MAP3K1 PIK3CA                                             
+MB-6071 ASXL2 EP300 ERBB2 GATA3 MAP3K1 PIK3CA THADA TP53                                         
+MB-6075 AKAP9 FOXP1 MLLT4                                              
+MB-6077 AHNAK HERC2 KMT2C PIK3CA PTEN                                            
+MB-6079 DNAH11 KMT2D NCOR2 PIK3CA USH2A                                            
+MB-6080 ARID2 DNAH2 PIK3CA TP53                                             
+MB-6082 AHNAK AHNAK2 ARID1B BRIP1 CACNA2D3 CDKN2A COL12A1 FOXP1 HERC2 MUC16 NCOR1 PRKCQ PTPN22 SETD2                                   
+MB-6083 AHNAK2 ASXL2 COL6A3 MAP3K1 NOTCH1 PDE4DIP SETD2 THADA                                         
+MB-6085 AHNAK2 CACNA2D3 COL6A3 KDM3A LARGE LIFR MAP3K1 NCOA3 NCOR2 PIK3CA SYNE1                                      
+MB-6092 ASXL1 COL12A1 COL6A3 KMT2D NPNT SETD2                                           
+MB-6097 AKT1 KRAS MLLT4 NCOR2 TBX3 UTRN                                           
+MB-6098 BRCA1 COL22A1 KMT2D LAMA2 SYNE1 TP53                                           
+MB-6100 BRCA2 DNAH11 NF1 TP53                                             
+MB-6101 BAP1 DNAH2 ERBB3 GATA3 KMT2C PALLD PIK3CA PTEN SHANK2 UTRN                                       
+MB-6103 PIK3CA PTEN SETD1A THADA                                             
+MB-6105 DNAH5 GATA3 KMT2C MAP3K1 PIK3CA UTRN                                           
+MB-6107 ATR BIRC6 CBFB CDH1 COL22A1 CTNNA1 LAMA2 LAMB3 MAP3K1 NCOR1 NRG3 PIK3CA SHANK2                                    
+MB-6108 AKT1 UTRN                                               
+MB-6113 ATR TP53 USH2A                                              
+MB-6114 FBXW7 NCOR2 PTEN RUNX1 SYNE1 TP53                                           
+MB-6116 CASP8 FANCD2 KDM6A KMT2C LAMA2 NCOR1 PIK3CA RUNX1 RYR2 STAB2 TP53                                      
+MB-6118 AHNAK GATA3 KMT2C MAP3K1 MLLT4 NCOR1 PIK3CA THADA                                         
+MB-6122 AKAP9 CACNA2D3 DNAH5 KMT2C ROS1 TP53                                           
+MB-6124 AKT1 EGFR GATA3 KMT2C PALLD THADA                                           
+MB-6125 DNAH2 LAMA2 LDLRAP1 MEN1 USH2A ZFP36L1                                           
+MB-6131 AKT1 ALK DNAH11 NF1 PTPRD SMAD4 SYNE1 TP53 UTRN                                        
+MB-6133 ATR CDH1 HERC2 PIK3CA RPGR SF3B1 UTRN                                          
+MB-6135 AKAP9 BRIP1 COL12A1 NCOR2 PIK3CA TBX3 TP53                                          
+MB-6138 ARID1A CDH1 KMT2C PIK3CA TG UTRN                                           
+MB-6141 KRAS                                                
+MB-6143 HERC2 MUC16 MYH9 PTEN TP53                                            
+MB-6144 TP53                                                
+MB-6145 GPS2 NF1 NF2                                              
+MB-6146 AHNAK COL12A1 JAK1 MUC16 STAB2 SYNE1 TP53                                          
+MB-6147 L1CAM LAMB3 NCOR2 PDE4DIP STAB2                                            
+MB-6149 ERBB4 MEN1 USH2A                                              
+MB-6150 AHNAK DNAH2 GATA3 MUC16 MYO1A PIK3CA                                           
+MB-6152 AGMO AHNAK2 DNAH5 FANCD2 MUC16 MYO1A MYO3A PDE4DIP PIK3CA RB1 SETD1A TP53                                     
+MB-6154 CDH1 PTPRD UBR5 USH2A                                             
+MB-6156 MYH9 SMAD4 TBX3 TP53                                             
+MB-6157 AKAP9 LAMA2 TP53 USH2A                                             
+MB-6160 ERBB2 MAP2K4 PDE4DIP TP53                                             
+MB-6163 LDLRAP1 MYO1A PIK3CA PTPRM ROS1                                            
+MB-6164 ASXL1 CACNA2D3 KMT2C NF1 PIK3CA RB1 SF3B1                                          
+MB-6167 BRCA2 CDH1 DNAH2 DNAH5 NT5E PDE4DIP THSD7A                                          
+MB-6168 AKAP9 ERBB3 ERBB4 KMT2C LAMB3 MAP3K1 PIK3CA                                          
+MB-6169 AHNAK2 ERBB3 MLLT4 MUC16 STAB2 TP53                                           
+MB-6171 AKT1 COL12A1 GATA3 HERC2                                             
+MB-6178 AHNAK2 BRCA1 FANCA MUC16 TP53 USH2A                                           
+MB-6179 APC FLT3 NOTCH1 PIK3CA PIK3R1 TP53                                           
+MB-6181 GATA3 MAP2K4 SYNE1 TBX3 USP28                                            
+MB-6182 AKAP9 FAM20C FANCD2 LARGE LIFR MYH9 PIK3CA PIK3R1 PRKACG SETD1A SIK2 STAB2 TP53 UTRN                                   
+MB-6183 AHNAK2 EGFR HERC2 NF1 PIK3R1 RB1 SYNE1 UTRN                                         
+MB-6184 BIRC6 GATA3 KMT2D PIK3CA TP53                                            
+MB-6185 NOTCH1 PIK3CA PRR16 TBX3 TG                                            
+MB-6187 MUC16 PDE4DIP                                               
+MB-6188 COL12A1 JAK1 KMT2C NCOR2 PRKG1 TP53 UTRN                                          
+MB-6189 FOXO3 LIFR MYO3A TG                                             
+MB-6190 ASXL2 ATR CACNA2D3 GATA3 HERC2 TTYH1                                           
+MB-6192 AKAP9 KMT2C NRG3 PIK3CA PTPRD TAF1 TP53                                          
+MB-6194 AHNAK ARID1B KDM6A MYO3A PIK3CA SMARCC1 TP53                                          
+MB-6195 AKAP9 CDH1 DNAH11 KMT2C LDLRAP1 PIK3CA TBX3 THADA                                         
+MB-6200 PIK3CA SETD2 TP53                                              
+MB-6201 CDKN1B KMT2C PTPRM TG USP9X                                            
+MB-6204 OR6A2 PIK3CA SYNE1 TP53                                             
+MB-6207 APC MYO3A PIK3CA TG USH2A                                            
+MB-6208 AHNAK2 NCOA3 PIK3CA USH2A                                             
+MB-6211 AHNAK2 CBFB CTNNA1 PIK3CA                                             
+MB-6212 MAP3K1 MUC16 PIK3CA                                              
+MB-6214 KMT2C PIK3CA                                               
+MB-6217 AKAP9 ASXL2 FANCA MYH9 MYO3A SYNE1                                           
+MB-6218 AHNAK2 COL22A1 DNAH5 GATA3 LIFR SETD2 USH2A                                          
+MB-6223 ARID1B LAMA2 NOTCH1 THSD7A TP53                                            
+MB-6224 BIRC6 PDE4DIP SMAD4 TP53                                             
+MB-6225 AGMO AHNAK2 APC ARID1B MAP2K4 MLLT4 MUC16 MYH9 NCOR1 NCOR2 PIK3CA PPP2R2A STAB2 TP53                                   
+MB-6226 AHNAK2 ATR MAP3K10 PIK3CA SETD1A                                            
+MB-6228 AHNAK2 DCAF4L2 PDE4DIP TG TP53                                            
+MB-6229 BIRC6 CBFB PIK3CA RYR2 TBL1XR1                                            
+MB-6231 AKT1 BRAF DNAH11 FOXO3 NF1 TG                                           
+MB-6232 AHNAK2 APC CBFB COL12A1 KMT2D LAMA2 PIK3R1 RUNX1 SYNE1 UTRN                                       
+MB-6233 AKT1 DNAH2 KMT2C NCOR2 ROS1 RYR2 SMARCC2 TAF1                                         
+MB-6234 AKAP9 DNAH11 PIK3CA PRKCQ                                             
+MB-6237 COL6A3 MUC16 MYH9 TP53                                             
+MB-6238 CBFB COL6A3 GATA3 HERC2 KMT2C                                            
+MB-6239 APC CBFB DNAH2 MUC16 USP9X                                            
+MB-6242 AHNAK AHNAK2 CACNA2D3 KMT2C MUC16 MYO1A PDE4DIP PRKCE PTEN RYR2 SYNE1 THADA TP53                                    
+MB-6245 AHNAK2 MUC16 PTPRM RB1 USH2A                                            
+MB-6246 AGTR2 EGFR KMT2C LIFR NF2 RASGEF1B SYNE1 TBX3 TP53                                        
+MB-6248 AHNAK BRCA1 CASP8 DNAH5 LAMB3 SMAD2 THSD7A TP53                                         
+MB-6251 CHD1 DNAH5 FANCA PBRM1 TP53 USH2A                                           
+MB-6253 AHNAK DNAH2 NCOR1 PIK3CA SYNE1 TG                                           
+MB-6254 ARID2 COL12A1 KMT2D MUC16                                             
+MB-6256 ASXL1 DNAH5 MTAP MYH9 TG                                            
+MB-6257 CDKN1B DNAH5 ERBB4                                              
+MB-6263 AKT1 ALK MAP3K1 PRKACG                                             
+MB-6271 AFF2 BRCA1 KMT2D LAMA2 NCOA3 NOTCH1 PPP2R2A PTPRD TP53 USH2A                                       
+MB-6272 AHNAK ASXL2 COL6A3 TBX3 THADA TP53                                           
+MB-6273 AHNAK ARID1B BIRC6 DNAH2 KDM6A NF1 TAF4B TG TP53                                        
+MB-6280 AHNAK MUC16 MYO1A SYNE1 TG TP53                                           
+MB-6281 AHNAK ARID1A DNAH2 STAB2 TP53                                            
+MB-6283 AHNAK2 GATA3 PDE4DIP PIK3CA ROS1 SF3B1                                           
+MB-6284 BIRC6 USP9X UTRN                                              
+MB-6286 KMT2D MUC16 TAF4B TP53                                             
+MB-6287 CDH1 ERBB3 MYO3A PIK3CA TBX3                                            
+MB-6288 AKAP9 ARID1A CACNA2D3 LAMB3 TP53                                            
+MB-6297 AFF2 DCAF4L2 EGFR FANCA LIPI MAP3K1                                           
+MB-6300 GATA3 KDM3A NOTCH1 PTEN SETDB1                                            
+MB-6302 PALLD PRR16 SMARCC2 SYNE1                                             
+MB-6305 AFF2 AHNAK2 DNAH11 KMT2C MUC16 SYNE1 TBX3 TP53                                         
+MB-6306 COL12A1 FANCD2 KMT2C MUC16 NCOR1                                            
+MB-6308 AHNAK2 AKAP9 ERBB3 KMT2C MAP3K1 PIK3CA                                           
+MB-6312 DNAH11 FAM20C GATA3 MUC16 RPGR SYNE1                                           
+MB-6314 FAM20C GATA3 LIFR SYNE1 USH2A                                            
+MB-6317 AGTR2 AHNAK2 DNAH2 GATA3 MAP3K1 TP53                                           
+MB-6318 AGMO AKT1 BIRC6 DNAH2 KMT2C NCOR1 RPGR RYR2 SBNO1 TP53 UBR5                                      
+MB-6319 BIRC6 TG                                               
+MB-6322 COL12A1 COL6A3 ERBB3 GPS2 KRAS MAP3K1 MUC16 PIK3CA PRKG1 SIK1                                       
+MB-6327 KDM3A KMT2C MAP3K1 MUC16 SYNE1                                            
+MB-6328 AHNAK PIK3CA                                               
+MB-6329 FANCA KMT2C MAP2K4 SYNE1 TP53 USH2A UTRN                                          
+MB-6330 AFF2 MYO1A MYO3A PIK3CA                                             
+MB-6334 AHNAK AHNAK2 PIK3CA PIK3R1 PRR16 TP53                                           
+MB-6336 SYNE1 TP53                                               
+MB-6337 AHNAK2 DNAH11 LAMA2 PBRM1 PDE4DIP TG TP53                                          
+MB-6344 AHNAK AKAP9 ASXL1 BCAS3 CASP8 GLDC MYH9 TAF4B TP53                                        
+MB-6346 CTCF DNAH11 STAB2                                              
+MB-6358 MAGEA8 PDE4DIP TAF1 TP53                                             
+MB-6359 AGTR2 GATA3 LAMB3 MYO1A NF1 SF3B1 TP53 USH2A                                         
+MB-6363 AHNAK2 CHD1 MUC16 MYH9 PDE4DIP TAF1 USH2A                                          
+MB-7000 AHNAK AHNAK2 ARID1A GATA3 SHANK2 SMARCC1 THADA USP9X                                         
+MB-7001 AHNAK DNAH5 FOXO3 LAMB3 MUC16 MYH9 NCOR1 TBX3 THADA                                        
+MB-7002 CDH1 LAMA2 PIK3CA PTPRD SBNO1 SETD1A USP9X                                          
+MB-7003 AHNAK2 ARID1A CDH1 MAP3K1 PIK3CA                                            
+MB-7004 AHNAK COL22A1 DNAH2 FANCD2 MAP3K1 MUC16 NOTCH1 PIK3R1                                         
+MB-7005 PIK3CA                                                
+MB-7006 ARID5B GATA3 KMT2C KMT2D MLLT4 NCOA3 NOTCH1 PIK3CA                                         
+MB-7007 BIRC6 DNAH2 KMT2C MAP3K10 MYO1A SHANK2 TP53                                          
+MB-7008 DNAH2 GATA3                                               
+MB-7009 FANCA MUC16 NDFIP1                                              
+MB-7010 LAMA2 MAP3K1 MYH9 PIK3CA STAB2 STK11                                           
+MB-7011 COL6A3 DNAH11 ROS1                                              
+MB-7012 ARID1A SETDB1 STAB2 THSD7A USP28                                            
+MB-7013 BIRC6 COL22A1 KMT2C SYNE1 UTRN                                            
+MB-7014 AGMO AHNAK2 CLK3 DCAF4L2 KMT2D MUC16 PALLD PTPRM THADA TP53 USH2A USP28 ZFP36L1                                    
+MB-7015 AKT1 ARID2 GATA3 RPGR                                             
+MB-7017 DNAH5 HERC2 PTPRM TP53                                             
+MB-7018 CBFB DNAH5 GH1 HRAS KMT2C                                            
+MB-7019 AHNAK2 AKAP9 KMT2C MUC16 NCOA3 PALLD PDE4DIP PIK3CA                                         
+MB-7020 AHNAK AHNAK2 FANCA KMT2C MUC16 NCOR2 NRG3 PIK3CA RYR2 TP53                                       
+MB-7022 CACNA2D3 CDH1 ERBB2 NF1 PIK3CA STAB2                                           
+MB-7023 HERC2 PBRM1 PDE4DIP PIK3CA TP53                                            
+MB-7024 ATR CACNA2D3 DNAH11 GPR124 KDM3A L1CAM MAGEA8 MAP3K13 PIK3CA                                        
+MB-7025 RASGEF1B TP53                                               
+MB-7026 AHNAK2 ASXL2 MAP3K1 NOTCH1 TG USP28                                           
+MB-7027 AHNAK PIK3CA THSD7A TP53 USH2A                                            
+MB-7028 AHNAK2 AKAP9 ARID1B DNAH5 ERBB2 GATA3 HERC2 PIK3R1                                         
+MB-7029 CDKN1B KDM3A PIK3CA PPP2R2A SHANK2 TP53 USP9X                                          
+MB-7030 AFF2 KDM6A NOTCH1 PIK3CA                                             
+MB-7031 ALK COL12A1 RASGEF1B RB1 TP53                                            
+MB-7032 BIRC6 BRCA1 LAMA2 PIK3CA                                             
+MB-7034 DNAH2 DNAH5 NR3C1                                              
+MB-7035 LAMA2 PIK3CA TAF1 UTRN                                             
+MB-7036 BCAS3 DNAH2 MUC16 TP53                                             
+MB-7037 GPR124 ROS1 STAB2                                              
+MB-7038 AKAP9 ARID1A ARID1B ATR BRCA1 COL6A3 DNAH5 ERBB3 LIFR NCOR1 PDE4DIP STAB2 THADA USH2A                                   
+MB-7039 PDE4DIP TP53                                               
+MB-7040 BRCA1 BRIP1 DNAH2 DNAH5 KMT2C                                            
+MB-7041 BIRC6 CASP8 CDH1 COL22A1 DNAH5 LAMA2 LIPI MUC16 NF1 PIK3CA PTPRM RUNX1 SETDB1 STAB2 SYNE1                                  
+MB-7042 AFF2 ARID5B DNAH11 KMT2C MAP3K1 MYO3A NCOR1 PIK3CA                                         
+MB-7043 AKT1 BIRC6 COL6A3 ERBB4 SF3B1 SYNE1 USH2A                                          
+MB-7044 BRIP1 DNAH11 PDE4DIP PIK3CA                                             
+MB-7045 AHNAK AKT1 TP53                                              
+MB-7046 ARID1A DNAH5 KDM3A KMT2D NCOR2 PBRM1 PIK3CA                                          
+MB-7048 AHNAK2 AKAP9 BRCA1 PRKCQ TP53                                            
+MB-7049 DNAH11 NCOA3 NOTCH1 PTPRM SETD1A STAB2                                           
+MB-7050 ARID1A BIRC6 KMT2C NCOR1 TP53                                            
+MB-7051 MUC16 NEK1 TP53 USH2A                                             
+MB-7052 AHNAK2 RYR2 TP53                                              
+MB-7053 MAP2K4 NCOR2 NOTCH1 TG TP53 UBR5                                           
+MB-7054 AKAP9 DNAH2 PDE4DIP SYNE1 TP53                                            
+MB-7055 MUC16 RB1 RYR2 SYNE1 TP53                                            
+MB-7056 AHNAK2 AKAP9 AKT1 ARID1B BRAF COL12A1 CTCF GATA3 MBL2 MUC16 MYO3A SETD1A SF3B1 SHANK2 SMAD4 SYNE1                                 
+MB-7057 AKT1 BIRC6 CDH1 JAK1 PTPRD TBX3 TG TP53                                         
+MB-7058 AKAP9 CASP8 CDH1 GLDC LARGE NCOR1 RUNX1 THADA                                         
+MB-7059 DNAH11 NCOR2 PIK3CA SBNO1 TP53 USH2A                                           
+MB-7060 AHNAK2 CDH1 COL22A1 NF1                                             
+MB-7061 ARID2 NT5E PIK3CA                                              
+MB-7062 AHNAK2 KDM3A KMT2C PIK3CA PRKCQ                                            
+MB-7063 GATA3 KDM6A MUC16 PIK3CA SF3B1 SYNE1                                           
+MB-7065 GPR124 MAP3K1 SHANK2 TBX3                                             
+MB-7066 CTNNA3 ERBB2 HERC2 KMT2C PIK3R1 UTRN                                           
+MB-7067 AHNAK2 ERBB2 PIK3CA TP53                                             
+MB-7068 CACNA2D3 JAK1 PDE4DIP SHANK2 SMARCC1 SYNE1 TAF1 TP53                                         
+MB-7069 AGMO AHNAK2 DNAH2 KMT2C LAMA2 MLLT4 NCOA3 PIK3CA STAB2 SYNE1 TP53 TTYH1                                     
+MB-7070 ALK COL22A1 MYO1A PIK3CA SIK2 TP53                                           
+MB-7071 AHNAK ASXL1 COL22A1 COL6A3 GPR32 JAK1 KMT2D MAP3K1 MAP3K10 MYO1A NCOR2 NEK1 PIK3CA PTEN SETD1A THADA USH2A                                
+MB-7072 ARID5B BRIP1 DNAH2 HERC2 STAB2 TAF1 TP53 USH2A                                         
+MB-7073 AHNAK2 AKAP9 KMT2D PIK3CA TP53                                            
+MB-7074 COL12A1 EP300 ERBB2 SYNE1                                             
+MB-7075 ARID1A BIRC6 FANCA LAMB3 SETD1A                                            
+MB-7076 ATR DNAH5 FBXW7 NOTCH1 UTRN ZFP36L1                                           
+MB-7077 AHNAK GPS2 KDM3A PIK3CA PTPN22 UTRN                                           
+MB-7078 ARID1B CTCF KDM6A KRAS PIK3CA ZFP36L1                                           
+MB-7079 DNAH5 PIK3CA SMARCC1                                              
+MB-7080 AKAP9 CBFB GATA3 PIK3CA THSD7A                                            
+MB-7081 GPR32 LIFR PBRM1 ROS1 SYNE1 UTRN                                           
+MB-7082 RUNX1 TP53                                               
+MB-7083 DNAH2 LIPI NCOR2 NOTCH1 NR2F1 RYR2 SHANK2 TP53                                         
+MB-7084 AHNAK2 HERC2 MUC16 TP53                                             
+MB-7085 AHNAK DNAH2 MUC16                                              
+MB-7086 COL22A1 RYR2                                               
+MB-7087 CHD1 KMT2C KMT2D PDE4DIP SYNE1 TP53                                           
+MB-7088 DNAH2 ERBB3 KMT2D MUC16 NCOR2 PBRM1 PDE4DIP TP53 USP9X                                        
+MB-7089 AHNAK2 EP300 HERC2 KDM6A LAMA2 MUC16 MYO3A PDE4DIP TP53 USP9X                                       
+MB-7090 APC COL6A3 PIK3CA TP53                                             
+MB-7091 PDE4DIP PIK3CA TP53                                              
+MB-7092 AHNAK AKT1 ARID1A ATR DNAH5 ERBB4 FRMD3 GATA3 PRKCZ UTRN                                       
+MB-7093 PIK3CA RYR2 SETD1A                                              
+MB-7094 BAP1 PIK3CA TG                                              
+MB-7095 PIK3CA PTEN RPGR                                              
+MB-7096 DNAH5 KDM3A MAP2K4 MUC16 NEK1 RYR2                                           
+MB-7097 AHNAK2 ARID1A ATR CDH1 DNAH11 PIK3CA PRKCZ SIK1 THSD7A                                        
+MB-7099 AHNAK2 CTCF DNAH5 LARGE ZFP36L1                                            
+MB-7100 PRKCQ SYNE1                                               
+MB-7101 ATR CDH1 COL22A1 DNAH5 PIK3CA                                            
+MB-7102 AHNAK ASXL1 KMT2C SIK1 USH2A USP9X                                           
+MB-7104 MLLT4 MUC16 TP53                                              
+MB-7106 ARID1A CLRN2 DNAH11 KMT2C PIK3CA RPGR UTRN                                          
+MB-7107 AHNAK2 BRAF COL6A3 KMT2C NPNT PIK3CA PRKCE RYR2 SETD1A                                        
+MB-7109 AHNAK2 ASXL1 CDH1 MAP3K10 PDE4DIP TAF4B                                           
+MB-7111 NF1 PIK3CA TP53                                              
+MB-7112 ASXL2 DNAH11                                               
+MB-7113 AHNAK KMT2C LAMA2 MAP3K1 PIK3CA                                            
+MB-7114 ALK GH1 HERC2 MYO3A SF3B1 SYNE1 TG TP53                                         
+MB-7115 ACVRL1 ARID1B ASXL2 LAMB3 NCOR1                                            
+MB-7116 AHNAK AKT1 BIRC6 CBFB CDH1 OR6A2 PTEN RYR2 SF3B1 SYNE1                                       
+MB-7118 AKT1 NOTCH1                                               
+MB-7119 DNAH2 HDAC9 L1CAM NOTCH1 PIK3R1 PTPRM RYR2 TP53                                         
+MB-7121 APC NCOR2 NOTCH1                                              
+MB-7122 AHNAK2 BIRC6 ERBB2 MAP3K1 TP53                                            
+MB-7123 AHNAK2 MAP2K4 OR6A2 PTPRD TAF1 UBR5                                           
+MB-7124 DNAH2 FLT3 MAP3K1                                              
+MB-7127 APC NOTCH1                                               
+MB-7128 AHNAK2 CTNNA3 SIK1 SYNE1 USH2A                                            
+MB-7130 GPR32 MUC16 NPNT RYR2 TG                                            
+MB-7131 DNAH11 KMT2C MYH9 PTPN22 SHANK2                                            
+MB-7132 FLT3 PIK3CA                                               
+MB-7133 ASXL2 GATA3 GLDC PTPN22 TAF1 TG                                           
+MB-7135 EP300 FAM20C SHANK2 STAB2 TAF1 USH2A USP9X                                          
+MB-7137 AKT2 GATA3 TAF4B                                              
+MB-7138 NEK1 TG UTRN                                              
+MB-7140 ARID2 HERC2 LAMA2 NCOR1 PRKACG RYR2                                           
+MB-7141 ALK ATR GATA3 LDLRAP1 MAP3K1 NCOR2 TG                                          
+MB-7142 CTCF MAP3K1                                               
+MB-7143 COL12A1                                                
+MB-7144 NCOR1 PIK3CA SMAD4 TP53                                             
+MB-7145 APC EGFR MYH9 NOTCH1 PRKCQ STAB2 TP53                                          
+MB-7147 CTNNA3 ERBB3 FANCA FANCD2 GATA3 SETD2                                           
+MB-7149 COL22A1 COL6A3 MUC16 RB1 TTYH1                                            
+MB-7150 ARID1B ASXL1 PIK3CA TP53 ZFP36L1                                            
+MB-7151 BAP1 COL22A1 DNAH11 ERBB4 MUC16 SETD2 STAB2 TP53                                         
+MB-7152 LAMA2 NF2 PRKCE USP9X                                             
+MB-7153 ASXL2 ERBB2 KMT2C MUC16 MYH9 NRG3 PDE4DIP PIK3CA ROS1 RYR2 SYNE1                                      
+MB-7154 AKT1 COL12A1 COL6A3 FOXO3 PRKCE PRR16 ROS1 RPGR RUNX1 SHANK2 STK11 SYNE1 TP53 UTRN                                   
+MB-7155 AHNAK2 MUC16 STAB2 TP53                                             
+MB-7157 CBFB CTNNA1 EP300 GATA3 MYO1A NCOR2 PALLD                                          
+MB-7158 ATR DNAH2 KMT2C NCOR1 TP53 UTRN                                           
+MB-7159 RB1 SETDB1 TP53                                              
+MB-7160 AHNAK2 ALK COL12A1 DNAH11 DNAH2 FAM20C KMT2D SYNE1 TP53 UBR5                                       
+MB-7161 CCND3 GPR124 HRAS                                              
+MB-7162 AKT1 CACNA2D3                                               
+MB-7163 CDH1 PIK3CA RUNX1                                              
+MB-7164 CHD1 COL12A1 DNAH2 PIK3CA RPGR                                            
+MB-7165 ARID1A FBXW7 NCOR1 RUNX1 SYNE1 THADA TP53                                          
+MB-7167 AHNAK2 GATA3 MAP3K1 PIK3CA RUNX1                                            
+MB-7168 GATA3 KMT2C KMT2D LAMA2 PIK3CA RYR2 SETD2 TBX3 THADA                                        
+MB-7170 AKAP9 AKT1 CASP8 DNAH2 DNAH5 FBXW7 GATA3 KMT2C KMT2D MUC16 OR6A2 ROS1 RPGR SYNE1                                   
+MB-7171 AHNAK AHNAK2 AKAP9 FANCA NPNT RYR2 SMARCC1                                          
+MB-7172 KMT2D NRG3 PIK3R1                                              
+MB-7173 AHNAK2 CDH1 ERBB2 MAGEA8 PIK3CA                                            
+MB-7174 CHEK2 DNAH11 FANCA L1CAM PIK3R1 RYR2 TP53                                          
+MB-7176 BIRC6 PIK3CA                                               
+MB-7181 ARID2 CTNNA3 DNAH11 DNAH5 OR6A2 SHANK2                                           
+MB-7182 COL22A1 KMT2C NCOR1 PIK3CA RYR2 SYNE1                                           
+MB-7185 DNAH2 JAK1 KMT2C MAP3K1 MLLT4 PIK3CA PTPRD TG                                         
+MB-7186 AHNAK2 AKT1 CACNA2D3 COL6A3 EP300 GATA3 LAMA2 MAP3K1 MAP3K13 MUC16 RPGR SYNE1                                     
+MB-7187 DNAH11 FANCD2 FOXO3 JAK1 LAMB3 STAB2 TP53                                          
+MB-7189 TP53                                                
+MB-7193 DNAH11 LAMB3 RUNX1                                              
+MB-7194 BIRC6 KMT2C KMT2D MEN1 TG                                            
+MB-7195 COL6A3 PIK3CA                                               
+MB-7196 MYH9 MYO3A PIK3CA TP53 USH2A                                            
+MB-7197 CBFB GPR124 NOTCH1 PIK3CA TTYH1 UBR5                                           
+MB-7198 AHNAK PIK3R1 TP53                                              
+MB-7199 COL6A3 DNAH11 HERC2 NOTCH1                                             
+MB-7200 AGMO ATR GATA3 PIK3CA TG USP9X                                           
+MB-7201 BIRC6 LAMA2 TP53                                              
+MB-7205 AHNAK AHNAK2 AKAP9 ARID5B PDE4DIP PTEN PTPN22 RYR2 SBNO1 SETD2 SHANK2 STK11 TP53 USH2A                                   
+MB-7207 DNAH11 DNAH5 PIK3CA TP53                                             
+MB-7208 AKT1 CASP8 RUNX1 USH2A                                             
+MB-7212 CDH1 NF1 PIK3CA                                              
+MB-7215 NF1 PIK3CA SHANK2 TBX3 TG                                            
+MB-7216 NOTCH1                                                
+MB-7217 AHNAK2 COL22A1 NCOR2 PIK3CA                                             
+MB-7218 ARID1A ATR GATA3 PIK3CA SYNE1                                            
+MB-7219 PDE4DIP PIK3CA UTRN                                              
+MB-7220 AHNAK2 CDH1 DNAH5 HERC2 PIK3CA PRKCE                                           
+MB-7225 AHNAK MUC16 TG TP53 USP9X                                            
+MB-7226 AHNAK EP300 TG UTRN                                             
+MB-7227 ASXL2 PIK3R1                                               
+MB-7228 ASXL2 CTNNA3 KMT2C MAP3K1 MUC16 PIK3CA                                           
+MB-7229 ALK DNAH5 KMT2C MAP3K1 PIK3CA UTRN                                           
+MB-7230 AHNAK2 CBFB GATA3 NCOR1 NF1 PIK3CA UBR5                                          
+MB-7231 DNAH2 MUC16 NPNT PDE4DIP PTPRD                                            
+MB-7232 LIFR PIK3CA PTPRM THSD7A                                             
+MB-7233 CHD1 MAP3K1 PIK3CA RUNX1 SMARCB1                                            
+MB-7234 BAP1 GATA3 SYNE1 TAF1                                             
+MB-7235 AHNAK2 BRAF CASP8 DNAH5 FANCD2 HERC2 MUC16 PIK3CA ROS1 SMARCC2                                       
+MB-7236 NEK1                                                
+MB-7237 AHNAK AHNAK2 ARID1A CBFB KMT2C LIFR MAP3K1 PIK3CA SHANK2 THSD7A                                       
+MB-7238 AKAP9 CLRN2 CTNNA3 MAP3K1 NF1 PIK3CA TP53                                          
+MB-7241 ARID1A CLRN2 LAMB3 LIPI MAP3K1 MUC16 PIK3CA PRKCZ                                         
+MB-7243 BIRC6 CBFB KMT2C MUC16 PIK3CA                                            
+MB-7244 CBFB CHEK2 DNAH2 KMT2C MAP3K1 PIK3CA STAB2 USH2A                                         
+MB-7249 AHNAK2 ARID5B CCND3 UTRN                                             
+MB-7250 COL12A1 DNAH11 DNAH5 GLDC MUC16 NR3C1 PIK3CA SETD1A TP53                                        
+MB-7251 JAK1                                                
+MB-7252 CASP8 COL22A1 PIK3CA PRKACG SBNO1 SHANK2 SIK1 TP53 USP9X                                        
+MB-7253 KMT2C PIK3CA SF3B1                                              
+MB-7254 BIRC6 COL12A1 LAMA2 MAP3K1 MUC16 PIK3CA TBL1XR1 UTRN                                         
+MB-7256 ALK FAM20C NOTCH1 TP53                                             
+MB-7258 ARID5B ATR BAP1 BCAS3 CASP8 CLK3 FBXW7 MEN1 MUC16 PRKCQ THADA TP53                                     
+MB-7260 AHNAK AHNAK2 DNAH11 ERBB4 GPR124 MUC16 RPGR THADA THSD7A TP53                                       
+MB-7262 AGMO AHNAK2 COL12A1 KDM3A MAP2K4 MUC16 PBRM1 SGCD TP53 UBR5                                       
+MB-7263 AHNAK2 ATR LIFR NDFIP1 PIK3CA TP53                                           
+MB-7264 PTPN22 STAB2 TP53                                              
+MB-7266 KMT2C MYO1A PIK3CA UBR5                                             
+MB-7267 EP300 GLDC KMT2D SYNE1 THSD7A TP53                                           
+MB-7268 CCND3 CDH1 CLRN2 ERBB4 PIK3CA                                            
+MB-7269 PPP2CB SYNE1 THSD7A                                              
+MB-7270 AHNAK AHNAK2 L1CAM LAMB3 RYR2 SYNE1 TAF1 TP53                                         
+MB-7273 COL22A1 DNAH11 TAF1 TP53 USH2A                                            
+MB-7275 AHNAK DNAH2 KMT2D MUC16 PIK3CA RYR2 TP53                                          
+MB-7276 ARID1A DNAH2 KDM6A KMT2C KMT2D LDLRAP1 NR3C1 PDE4DIP PIK3CA                                        
+MB-7277 GATA3 NCOR2 UTRN                                              
+MB-7278 MAP3K1 PIK3CA TAF1                                              
+MB-7279 ERBB2 NF1 SIAH1 TP53                                             
+MB-7280 ATR MAP3K1 MLLT4 MUC16 SBNO1                                            
+MB-7281 KMT2C PIK3CA TP53                                              
+MB-7283 CCND3 CDH1 NF1 PIK3CA TP53 ZFP36L1                                           
+MB-7284 CDH1 MYH9 RYR2 TG UBR5                                            
+MB-7285 TP53                                                
+MB-7286 AHNAK2 ERBB3                                               
+MB-7287 ARID1A BIRC6 MAP3K1 PALLD PRKCQ RPGR RUNX1 RYR2 SYNE1 TP53                                       
+MB-7288 ERBB2 MYO1A                                               
+MB-7289 ERBB4 NF1 PDE4DIP PIK3CA TTYH1                                            
+MB-7291 AHNAK2 PIK3CA SYNE1 TP53                                             
+MB-7292 AKAP9 MUC16 NCOR2                                              
+MB-7293 AKAP9 CHD1 PIK3CA SPACA1 TP53                                            
+MB-7294 AHNAK2 TP53                                               
+MB-7295 AFF2 CTCF MAP3K1 PIK3CA                                             
+MB-7296 KMT2D PDE4DIP RYR2 TP53 USP9X                                            
+MB-7297 ARID1B COL22A1 FOXO3 MAP2K4                                             
+MB-7298 AFF2 AHNAK AHNAK2 DCAF4L2 DNAH11 EP300 FOXO3 GATA3 LAMA2 NCOR1 ROS1 SETDB1 SMARCC2                                    
+MB-7299 EP300 FANCA USH2A                                              
